@@ -5,19 +5,19 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 
-	<link rel="logo" type="image/svg" href="./logo.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
-	<link rel="mask-icon" href="./safari-pinned-tab.svg" color="#000000">
+	<link rel="logo" type="image/svg" href="/logo.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="theme-color" content="#ffffff">
 
 	<title>Toolbox &#8211; VW Third Place</title>
 <meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" hreflang="de" href="./toolbox/" />
-<link rel="alternate" hreflang="en" href="./toolbox/?lang=en" />
-<link rel="alternate" hreflang="x-default" href="./toolbox/" />
+<link rel="alternate" hreflang="de" href="/toolbox/" />
+<link rel="alternate" hreflang="en" href="/toolbox/?lang=en" />
+<link rel="alternate" hreflang="x-default" href="/toolbox/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/learn.foreverday.one\/wp-includes\/js\/wp-emoji-release.min.js"}};
 /*! This file is auto-generated */
@@ -57,13 +57,13 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
 /* ]]> */
 </script>
 <script type='text/javascript' src='./wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js' id='wpml-cookie-js'></script>
-<link rel="https://api.w.org/" href="./wp-json/" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/pages/1204" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" />
+<link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/1204" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2" />
-<link rel="canonical" href="./toolbox/" />
+<link rel="canonical" href="/toolbox/" />
 <link rel='shortlink' href='/?p=1204' />
-<link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Ftoolbox%2F" />
-<link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Ftoolbox%2F&#038;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Ftoolbox%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Ftoolbox%2F&#038;format=xml" />
 <meta name="generator" content="WPML ver:4.5.12 stt:1,3;" />
 			<style>
 			body {
@@ -87,28 +87,28 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
 						<div style="flex-grow: 1"></div>
 
 											</div>
-					<a href="./overview_page/analysieren-gestalten-day-one-learning-guide/">Home</a>
+					<a href="/overview_page/analysieren-gestalten-day-one-learning-guide/">Home</a>
 												<div>
-								<a href="./overview_page/einfuehrung-third-place/">Einführung in Third Place</a>
+								<a href="/overview_page/einfuehrung-third-place/">Einführung in Third Place</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
 												<div>
-								<a href="./overview_page/agiles-arbeiten-in-third-place/">Agiles Arbeiten in Third Place</a>
+								<a href="/overview_page/agiles-arbeiten-in-third-place/">Agiles Arbeiten in Third Place</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
 												<div>
-								<a href="./overview_page/vw_third-place_lernpfad-lernbegleiterin/">Lernpfad zur Lernbegleiter:in</a>
+								<a href="/overview_page/vw_third-place_lernpfad-lernbegleiterin/">Lernpfad zur Lernbegleiter:in</a>
 								<div class="menu-nested">
-																				<a href="./overview_page/vorleben-inspirieren/">Vorleben &#038; Inspirieren</a><br>
-																				<a href="./overview_page/analysieren-gestalten/">Analysieren &#038; Gestalten</a><br>
-																				<a href="./overview_page/erkennen-entwickeln/">Erkennen &#038; Entwickeln</a><br>
-																				<a href="./overview_page/begleiten-halten/">Begleiten &#038; Halten</a><br>
+																				<a href="/overview_page/vorleben-inspirieren/">Vorleben &#038; Inspirieren</a><br>
+																				<a href="/overview_page/analysieren-gestalten/">Analysieren &#038; Gestalten</a><br>
+																				<a href="/overview_page/erkennen-entwickeln/">Erkennen &#038; Entwickeln</a><br>
+																				<a href="/overview_page/begleiten-halten/">Begleiten &#038; Halten</a><br>
 																	</div>
 							</div>
 												<div>
-								<a href="./toolbox/">Toolbox</a>
+								<a href="/toolbox/">Toolbox</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
@@ -143,16 +143,16 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
     
                 <h3>Filter</h3>
         <div class="toolbox-filter">
-                            <a class="" href="./toolbox/?filter=3577">Lernpfad zur Lernbegleiter:in</a>
-                            <a class="" href="./toolbox/?filter=4547">Vorleben &#038; Inspirieren</a>
-                            <a class="" href="./toolbox/?filter=3331">Analysieren &#038; Gestalten</a>
-                            <a class="active" href="./toolbox/">Erkennen &#038; Entwickeln</a>
-                            <a class="" href="./toolbox/?filter=4913">Begleiten &#038; Halten</a>
+                            <a class="" href="/toolbox/?filter=3577">Lernpfad zur Lernbegleiter:in</a>
+                            <a class="" href="/toolbox/?filter=4547">Vorleben &#038; Inspirieren</a>
+                            <a class="" href="/toolbox/?filter=3331">Analysieren &#038; Gestalten</a>
+                            <a class="active" href="/toolbox/">Erkennen &#038; Entwickeln</a>
+                            <a class="" href="/toolbox/?filter=4913">Begleiten &#038; Halten</a>
                     </div>
     
     <div class="block-tool-list">
 
-            <a class="block-tool" href="./tool/der-reflexionsspaziergang/">
+            <a class="block-tool" href="/tool/der-reflexionsspaziergang/">
         <div class="block-tool-header">
             <div>Wie kann ich mir bewusst Zeit zum Reflektieren nehmen?</div>
         </div>
@@ -161,7 +161,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/das-beziehungsglas/">
+    <a class="block-tool" href="/tool/das-beziehungsglas/">
         <div class="block-tool-header">
             <div>Wie kann ich meine Beziehungen verbessern?</div>
         </div>
@@ -170,7 +170,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/checkliste-fuer-ueberzeugendes-feedback/">
+    <a class="block-tool" href="/tool/checkliste-fuer-ueberzeugendes-feedback/">
         <div class="block-tool-header">
             <div>Was steht hinter einem überzeugenden Feedback?</div>
         </div>
@@ -179,7 +179,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/kommunikationsregeln/">
+    <a class="block-tool" href="/tool/kommunikationsregeln/">
         <div class="block-tool-header">
             <div>Wie können Kommunika-tionsregeln die Zusammen-arbeit verbessern?</div>
         </div>
@@ -188,7 +188,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/wortwahl/">
+    <a class="block-tool" href="/tool/wortwahl/">
         <div class="block-tool-header">
             <div>Welchen Unterschied kann die Wortwahl machen?</div>
         </div>
@@ -197,7 +197,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/gespraechsfuehrung-konfliktloesung-sag-es/">
+    <a class="block-tool" href="/tool/gespraechsfuehrung-konfliktloesung-sag-es/">
         <div class="block-tool-header">
             <div>Wie führt man Konflikt-gespräche?</div>
         </div>
@@ -206,7 +206,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/aktives-zuhoeren/">
+    <a class="block-tool" href="/tool/aktives-zuhoeren/">
         <div class="block-tool-header">
             <div>Wie funktioniert aktives Zuhören?</div>
         </div>
@@ -215,7 +215,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/drei-dinge-veraendern/">
+    <a class="block-tool" href="/tool/drei-dinge-veraendern/">
         <div class="block-tool-header">
             <div>Wie kann man bewusste Wahrnehmung üben?</div>
         </div>
@@ -224,7 +224,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/reflexion-fuehrungsvakuum/">
+    <a class="block-tool" href="/tool/reflexion-fuehrungsvakuum/">
         <div class="block-tool-header">
             <div>Wie sieht mein eigener Führungsstil aus?</div>
         </div>
@@ -233,7 +233,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/einsame-insel/">
+    <a class="block-tool" href="/tool/einsame-insel/">
         <div class="block-tool-header">
             <div>Wie können Gruppen-dynamiken gemeinsam analysiert werden?</div>
         </div>
@@ -242,7 +242,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/emotionale-achterbahn/">
+    <a class="block-tool" href="/tool/emotionale-achterbahn/">
         <div class="block-tool-header">
             <div>Wie können Emotionen sichtbar gemacht werden?</div>
         </div>
@@ -251,7 +251,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
             <div class="block-tool-description"></div>
         </div>
     </a>
-    <a class="block-tool" href="./tool/beobachtungskategorien-in-gruppensituationen/">
+    <a class="block-tool" href="/tool/beobachtungskategorien-in-gruppensituationen/">
         <div class="block-tool-header">
             <div>Wie ist die Dynamik in einer Gruppe?</div>
         </div>
@@ -271,7 +271,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":
 		<br>
 					<a href="https://learn.foreverday.one?logout=1">Logout</a>
 			|
-				<a href="./datenschutzerklaerung/">Datenschutzerklärung</a> |
+				<a href="/datenschutzerklaerung/">Datenschutzerklärung</a> |
 		<a target="_blank" href="https://foreverday.one/impressum">Impressum</a>
 	</div>
 </footer>

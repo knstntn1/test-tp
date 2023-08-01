@@ -5,19 +5,19 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 
-	<link rel="logo" type="image/svg" href="./logo.png?lang=en">
-	<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?lang=en">
-	<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png?lang=en">
-	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png?lang=en">
-	<link rel="mask-icon" href="./safari-pinned-tab.svg?lang=en" color="#000000">
+	<link rel="logo" type="image/svg" href="/logo.png?lang=en">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?lang=en">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?lang=en">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?lang=en">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?lang=en" color="#000000">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="theme-color" content="#ffffff">
 
 	<title>Grundlagen der Kommunikation &#8211; VW Third Place</title>
 <meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" hreflang="de" href="./article/grundlagen-der-kommunikation/" />
-<link rel="alternate" hreflang="en" href="./article/grundlagen-der-kommunikation/?lang=en" />
-<link rel="alternate" hreflang="x-default" href="./article/grundlagen-der-kommunikation/" />
+<link rel="alternate" hreflang="de" href="/article/grundlagen-der-kommunikation/" />
+<link rel="alternate" hreflang="en" href="/article/grundlagen-der-kommunikation/?lang=en" />
+<link rel="alternate" hreflang="x-default" href="/article/grundlagen-der-kommunikation/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/learn.foreverday.one\/wp-includes\/js\/wp-emoji-release.min.js"}};
 /*! This file is auto-generated */
@@ -57,13 +57,13 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 /* ]]> */
 </script>
 <script type='text/javascript' src='./wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js' id='wpml-cookie-js'></script>
-<link rel="https://api.w.org/" href="./wp-json/" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/article/5516" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" />
+<link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" type="application/json" href="/wp-json/wp/v2/article/5516" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2" />
-<link rel="canonical" href="./article/grundlagen-der-kommunikation/" />
+<link rel="canonical" href="/article/grundlagen-der-kommunikation/" />
 <link rel='shortlink' href='/?p=5516&#038;lang=en' />
-<link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den" />
-<link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den&#038;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den&#038;format=xml" />
 <meta name="generator" content="WPML ver:4.5.12 stt:1,3;" />
 			<style>
 			body {
@@ -87,28 +87,28 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 						<div style="flex-grow: 1"></div>
 
 											</div>
-					<a href="./overview_page/analysieren-gestalten-day-one-learning-guide/?lang=en">Home</a>
+					<a href="/overview_page/analysieren-gestalten-day-one-learning-guide/?lang=en">Home</a>
 												<div>
-								<a href="./overview_page/einfuehrung-third-place/?lang=en">Einführung in Third Place</a>
+								<a href="/overview_page/einfuehrung-third-place/?lang=en">Einführung in Third Place</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
 												<div>
-								<a href="./overview_page/agiles-arbeiten-in-third-place/?lang=en">Agiles Arbeiten in Third Place</a>
+								<a href="/overview_page/agiles-arbeiten-in-third-place/?lang=en">Agiles Arbeiten in Third Place</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
 												<div>
-								<a href="./overview_page/vw_third-place_lernpfad-lernbegleiterin/?lang=en">Lernpfad zur Lernbegleiter:in</a>
+								<a href="/overview_page/vw_third-place_lernpfad-lernbegleiterin/?lang=en">Lernpfad zur Lernbegleiter:in</a>
 								<div class="menu-nested">
-																				<a href="./overview_page/vorleben-inspirieren/?lang=en">Vorleben &#038; Inspirieren</a><br>
-																				<a href="./overview_page/analysieren-gestalten/?lang=en">Analysieren &#038; Gestalten</a><br>
-																				<a href="./overview_page/erkennen-entwickeln/?lang=en">Erkennen &#038; Entwickeln</a><br>
-																				<a href="./overview_page/begleiten-halten/?lang=en">Begleiten &#038; Halten</a><br>
+																				<a href="/overview_page/vorleben-inspirieren/?lang=en">Vorleben &#038; Inspirieren</a><br>
+																				<a href="/overview_page/analysieren-gestalten/?lang=en">Analysieren &#038; Gestalten</a><br>
+																				<a href="/overview_page/erkennen-entwickeln/?lang=en">Erkennen &#038; Entwickeln</a><br>
+																				<a href="/overview_page/begleiten-halten/?lang=en">Begleiten &#038; Halten</a><br>
 																	</div>
 							</div>
 												<div>
-								<a href="./toolbox/?lang=en">Toolbox</a>
+								<a href="/toolbox/?lang=en">Toolbox</a>
 								<div class="menu-nested">
 																	</div>
 							</div>
@@ -174,7 +174,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 
 
 
-<p>Kommunikation ist ein Thema, das man aus Sicht der Lernbegleitung auf verschiedenen Ebenen betrachten kann. Zum einen ist Kommunikation ein wichtiges Instrument für die eigene Arbeit. Als Lernbegleiter:in muss man angemessen und zielgruppengerecht mit den Lernenden kommunizieren und deren Lernprozess durch Kommunikation unterstützen, aber auch Lernsituationen moderieren oder mit <a href="./article/konflikte/?lang=en" target="_blank" rel="noreferrer noopener">Konflikten</a> umgehen.&nbsp;&nbsp;</p>
+<p>Kommunikation ist ein Thema, das man aus Sicht der Lernbegleitung auf verschiedenen Ebenen betrachten kann. Zum einen ist Kommunikation ein wichtiges Instrument für die eigene Arbeit. Als Lernbegleiter:in muss man angemessen und zielgruppengerecht mit den Lernenden kommunizieren und deren Lernprozess durch Kommunikation unterstützen, aber auch Lernsituationen moderieren oder mit <a href="/article/konflikte/?lang=en" target="_blank" rel="noreferrer noopener">Konflikten</a> umgehen.&nbsp;&nbsp;</p>
 
 
 
@@ -182,7 +182,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 
 
 
-<p>Vor allem in Situationen, in denen ein Mensch mit neuen Herausforderungen konfrontiert sind, wie es in Lernsituationen ja meistens der Fall ist, sind wertschätzende, authentische und empathische Beziehungen entwicklungsfördernd. Solche Beziehungen zeichnen sich nach dem Psychologen Carl Roger dadurch aus, dass man anderen Menschen Akzeptanz und Respekt entgegenbringt und ihnen trotz ihrer Fehler nicht wertend begegnet. Stattdessen geht es darum, einfühlsam zu sein und zu versuchen, die Perspektive der anderen Person einzunehmen. Zusätzlich zu einer solchen Haltung können Methoden, wie das <a href="./?post_type=tool&amp;p=5513" target="_blank" rel="noreferrer noopener">aktive Zuhören</a> dabei helfen, eine solche Beziehung aufzubauen.</p>
+<p>Vor allem in Situationen, in denen ein Mensch mit neuen Herausforderungen konfrontiert sind, wie es in Lernsituationen ja meistens der Fall ist, sind wertschätzende, authentische und empathische Beziehungen entwicklungsfördernd. Solche Beziehungen zeichnen sich nach dem Psychologen Carl Roger dadurch aus, dass man anderen Menschen Akzeptanz und Respekt entgegenbringt und ihnen trotz ihrer Fehler nicht wertend begegnet. Stattdessen geht es darum, einfühlsam zu sein und zu versuchen, die Perspektive der anderen Person einzunehmen. Zusätzlich zu einer solchen Haltung können Methoden, wie das <a href="/?post_type=tool&amp;p=5513" target="_blank" rel="noreferrer noopener">aktive Zuhören</a> dabei helfen, eine solche Beziehung aufzubauen.</p>
 
 
 
@@ -397,7 +397,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 
 <ul class="has-small-font-size"><li>Jekat, S. (o. J.). Barrierefreie Kommunikation: Wichtige Begriffe kurz und einfach erklärt. <em>ZHAW Angewandte Linguistik</em>. https://www.zhaw.ch/de/linguistik/forschung/kompetenzzentrum-barrierefreie-kommunikation/barrierefreie-kommunikation-wichtige-begriffe/</li><li>Plate, M. (2013). <em>Grundlagen der Kommunikation</em>. Vandenhoeck &amp; Ruprecht.</li><li>von Schlippe, A. (2013). Vorwort. In Plate, M.: <em>Grundlagen der Kommunikation</em>. Vandenhoeck &amp; Ruprecht.</li><li>Watzlawick, P., Beavin, J. &amp; Jackson, D. (1969). <em>Menschliche Kommunikation.</em> Huber.</li></ul>
 							<h4>Next Article</h4>
-				<a href="./article/konflikte/?lang=en" class="article-next">
+				<a href="/article/konflikte/?lang=en" class="article-next">
 					<img width="640" height="360" src="./wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-640x360.jpg" class="attachment-article-thumbnail size-article-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-640x360.jpg 640w, /wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-1280x720.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />					<div>
 												<br>
 						Konflikte						<br>
@@ -414,9 +414,9 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":
 	<div class="container">
 		&copy; 2023 - Forever Day One
 		<br>
-					<a href="./?lang=en&logout=1">Logout</a>
+					<a href="/?lang=en&logout=1">Logout</a>
 			|
-				<a href="./datenschutzerklaerung/?lang=en">Datenschutzerklärung</a> |
+				<a href="/datenschutzerklaerung/?lang=en">Datenschutzerklärung</a> |
 		<a target="_blank" href="https://foreverday.one/impressum">Impressum</a>
 	</div>
 </footer>
