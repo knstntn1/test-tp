@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="logo" type="image/svg" href="./logo.png?lang=en">
+	<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?lang=en">
+	<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png?lang=en">
+	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png?lang=en">
+	<link rel="mask-icon" href="./safari-pinned-tab.svg?lang=en" color="#000000">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+
+	<title>Grundlagen der Kommunikation &#8211; VW Third Place</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="de" href="./article/grundlagen-der-kommunikation/" />
+<link rel="alternate" hreflang="en" href="./article/grundlagen-der-kommunikation/?lang=en" />
+<link rel="alternate" hreflang="x-default" href="./article/grundlagen-der-kommunikation/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/learn.foreverday.one\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #248ef7;--wp--preset--color--secondary: #78e04d;--wp--preset--color--third: #ff3d43;--wp--preset--color--fourth: #963a89;--wp--preset--color--fifth: #ff7200;--wp--preset--color--sixth: #367b6e;--wp--preset--color--learning-project: #fdf577;--wp--preset--color--4-ed-1: #22ffaa;--wp--preset--color--client: #e20074;--wp--preset--color--gray: #efefef;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 0.875rem;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 1.125rem;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 1.5rem;--wp--preset--font-size--xl: 1.25rem;--wp--preset--font-size--xxl: 1.5rem;--wp--preset--font-size--xxxl: 1.875rem;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 860px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: 24px; }body { --wp--style--block-gap: 24px; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-flex{gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-third-color{color: var(--wp--preset--color--third) !important;}.has-fourth-color{color: var(--wp--preset--color--fourth) !important;}.has-fifth-color{color: var(--wp--preset--color--fifth) !important;}.has-sixth-color{color: var(--wp--preset--color--sixth) !important;}.has-learning-project-color{color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-color{color: var(--wp--preset--color--4-ed-1) !important;}.has-client-color{color: var(--wp--preset--color--client) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-third-background-color{background-color: var(--wp--preset--color--third) !important;}.has-fourth-background-color{background-color: var(--wp--preset--color--fourth) !important;}.has-fifth-background-color{background-color: var(--wp--preset--color--fifth) !important;}.has-sixth-background-color{background-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-background-color{background-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-background-color{background-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-background-color{background-color: var(--wp--preset--color--client) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-third-border-color{border-color: var(--wp--preset--color--third) !important;}.has-fourth-border-color{border-color: var(--wp--preset--color--fourth) !important;}.has-fifth-border-color{border-color: var(--wp--preset--color--fifth) !important;}.has-sixth-border-color{border-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-border-color{border-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-border-color{border-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-border-color{border-color: var(--wp--preset--color--client) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-regular-font-size{font-size: var(--wp--preset--font-size--regular) !important;}.has-xl-font-size{font-size: var(--wp--preset--font-size--xl) !important;}.has-xxl-font-size{font-size: var(--wp--preset--font-size--xxl) !important;}.has-xxxl-font-size{font-size: var(--wp--preset--font-size--xxxl) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='sign-in-with-google-css' href='/wp-content/plugins/sign-in-with-google/src/public/css/sign-in-with-google-public.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='/wp-content/themes/learning-hub/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='./wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js' id='wpml-cookie-js'></script>
+<link rel="https://api.w.org/" href="./wp-json/" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/article/5516" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<link rel="canonical" href="./article/grundlagen-der-kommunikation/" />
+<link rel='shortlink' href='/?p=5516&#038;lang=en' />
+<link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den" />
+<link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fgrundlagen-der-kommunikation%2F%3Flang%3Den&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.5.12 stt:1,3;" />
+			<style>
+			body {
+				--wp--preset--color--client: #0f16dd;
+							}
+		</style>
+	</head>
+
+<body class="article-template-default single single-article postid-5516" >
+	<main>
+					<div class="menu">
+			</div>
+			<label for="menu-toggle" class="menu " id="menu">
+			</label>
+
+			<input id="menu-toggle" type="checkbox" />
+			<div class="menu-container">
+				<div class="menu-sheet">
+					<div class="menu-header-row">
+						<label for="menu-toggle" class="menu-close"></label>
+						<div style="flex-grow: 1"></div>
+
+											</div>
+					<a href="./overview_page/analysieren-gestalten-day-one-learning-guide/?lang=en">Home</a>
+												<div>
+								<a href="./overview_page/einfuehrung-third-place/?lang=en">Einführung in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/agiles-arbeiten-in-third-place/?lang=en">Agiles Arbeiten in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/vw_third-place_lernpfad-lernbegleiterin/?lang=en">Lernpfad zur Lernbegleiter:in</a>
+								<div class="menu-nested">
+																				<a href="./overview_page/vorleben-inspirieren/?lang=en">Vorleben &#038; Inspirieren</a><br>
+																				<a href="./overview_page/analysieren-gestalten/?lang=en">Analysieren &#038; Gestalten</a><br>
+																				<a href="./overview_page/erkennen-entwickeln/?lang=en">Erkennen &#038; Entwickeln</a><br>
+																				<a href="./overview_page/begleiten-halten/?lang=en">Begleiten &#038; Halten</a><br>
+																	</div>
+							</div>
+												<div>
+								<a href="./toolbox/?lang=en">Toolbox</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+									</div>
+			</div>
+
+			<script>
+				function initializeMenu() {
+					const container = document.querySelector(".menu-container");
+					document.querySelector("#menu").addEventListener("click", () => {
+						container.classList.add("opened");
+					});
+					document.querySelector(".menu-sheet").addEventListener("click", (e) => {
+						e.stopPropagation();
+					});
+					for (const el of [container, document.querySelector(".menu-close")])
+						el.addEventListener("click", () => {
+							container.classList.add("closing");
+							setTimeout(() => {
+								container.classList.remove("closing");
+								container.classList.remove("opened");
+							}, 320);
+						});
+				}
+				initializeMenu();
+			</script>
+		
+		
+<div class="container">
+		<article id="post-5516" class="post-5516 article type-article status-publish has-post-thumbnail hentry">
+		<div class="entry-content">
+			<h1>Grundlagen der Kommunikation</h1>
+			<img width="1280" height="720" src="./wp-content/uploads/2022/09/jason-leung-mZNRsYE9Qi4-unsplash-1280x720.jpg" class="article-featured-image wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2022/09/jason-leung-mZNRsYE9Qi4-unsplash-1280x720.jpg 1280w, /wp-content/uploads/2022/09/jason-leung-mZNRsYE9Qi4-unsplash-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />			
+<h4 class="wp-block-heading">Wie funktioniert Kommunikation und was ist das Besondere in der Lernbegleitung?</h4>
+
+
+
+<p>Kommunikation hat eine große Bedeutung für unseren Alltag. Menschen sind soziale Wesen, die sich austauschen und Beziehungen aufbauen. In unserem Alltag mit anderen Menschen ist Kommunikation deshalb immer um uns herum.</p>
+
+
+
+<p>Der Philosoph und Kommunikationswissenschaftlicher Paul Watzlawick (1969) sagte deshalb einmal: “Man kann nicht nicht kommunizieren.” Damit meinte er, dass jedes Verhalten einen Mitteilungscharakter haben kann, wenn zwei oder mehr Menschen aufeinander treffen. Da sie sich immer irgendwie zueinander verhalten, können Menschen es nicht vermeiden, zu kommunizieren. Eine Person agiert und die andere Person interpretiert ihr Verhalten und leitet Informationen daraus ab. Kommunikation ist also nicht nur das, was man ausspricht, sondern beispielsweise auch Gestik, Mimik, Sprechgeschwindigkeit oder Lautstärke der Stimme.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>“Kommunikation ist [&#8230;] der Weg, über den im ständigen Spiel von Information, Mitteilung und Verstehen Menschen gemeinsam Sinn erzeugen, es “fließt” da nichts von einem zum anderen. Der Sinn “ist” nicht in dem einen oder dem anderen, er ist “dazwischen”, Kommunikation hat keinen Ort, sie ist immer gemeinsame Sinnerzeugung.” </p><cite>(Arist von Schlippe, 2013, S. 10)</cite></blockquote>
+
+
+
+<p>Wenn die gemeinsame Sinnkonstruktion nicht funktioniert, dann funktioniert etwas mit der Kommunikation nicht, sie ist gestört. Das kann deprimierend und demotivierend sein. Nicht umsonst ist Kommunikation deshalb immer noch eine der wichtigsten sozialen Kompetenzen – und wird es auch bleiben.&nbsp;</p>
+
+
+
+<p>Dabei geht es meist um die folgenden Fragen:</p>
+
+
+
+<ul><li>Wie tausche ich mich über meine Arbeit, mein Lernen, meine Ideen etc. mit anderen aus?&nbsp;</li><li>Wie teile ich anderen etwas so mit, dass sie es verstehen und nutzen können?</li><li>Wie kommuniziere ich meinen Bedarf nach Unterstützung?</li></ul>
+
+
+
+<h4 class="wp-block-heading">Warum ist Kommunikation für die Lernbegleitung wichtig?</h4>
+
+
+
+<p>Kommunikation ist ein Thema, das man aus Sicht der Lernbegleitung auf verschiedenen Ebenen betrachten kann. Zum einen ist Kommunikation ein wichtiges Instrument für die eigene Arbeit. Als Lernbegleiter:in muss man angemessen und zielgruppengerecht mit den Lernenden kommunizieren und deren Lernprozess durch Kommunikation unterstützen, aber auch Lernsituationen moderieren oder mit <a href="./article/konflikte/?lang=en" target="_blank" rel="noreferrer noopener">Konflikten</a> umgehen.&nbsp;&nbsp;</p>
+
+
+
+<p>Zum anderen gilt es, diese Kompetenz bei den Lernenden zu fördern, für die eine hohe Kommunikationsfähigkeit auch immer wichtiger wird.&nbsp;Als Lernbegleiter:in geht es nicht nur darum, die Kommunikation mit den Lernenden gut zu meistern, sondern auch einen Rahmen für die Kommunikation unter den Lernenden zu setzen. Denn Kommunikation ist die Basis des sozialen Lernens. Dieser Rahmen hilft sowohl die gegenseitige Unterstützung unter den Lernenden zu gestalten als auch das Teilen von Erkenntnissen, Erfahrungen und Ideen zu fördern.&nbsp;</p>
+
+
+
+<p>Vor allem in Situationen, in denen ein Mensch mit neuen Herausforderungen konfrontiert sind, wie es in Lernsituationen ja meistens der Fall ist, sind wertschätzende, authentische und empathische Beziehungen entwicklungsfördernd. Solche Beziehungen zeichnen sich nach dem Psychologen Carl Roger dadurch aus, dass man anderen Menschen Akzeptanz und Respekt entgegenbringt und ihnen trotz ihrer Fehler nicht wertend begegnet. Stattdessen geht es darum, einfühlsam zu sein und zu versuchen, die Perspektive der anderen Person einzunehmen. Zusätzlich zu einer solchen Haltung können Methoden, wie das <a href="./?post_type=tool&amp;p=5513" target="_blank" rel="noreferrer noopener">aktive Zuhören</a> dabei helfen, eine solche Beziehung aufzubauen.</p>
+
+
+
+<h4 class="wp-block-heading">An welchen Kommunikationsmustern kann man Stress ableiten?</h4>
+
+
+
+<p>Für Lernbegleiter:innen ist es auch wichtig, die Kommunikation von anderen beurteilen zu können. So gibt es beispielsweise vier typische Muster nach den Menschen kommunizieren, die unter Stress stehen:&nbsp;</p>
+
+
+
+<ol><li><strong>Ablenken</strong>: Hier übergeht die gestresste Person die kritische Situation, in der sie sich befindet, versucht diese zu ignorieren und kommt stattdessen auf ein anderes Thema zu sprechen. Die Person hofft, dass sie sich die Situation von selbst löst. Das geschieht jedoch meist nicht.&nbsp;</li><li><strong>Anklagen</strong>: Bei großem Druck beginnt die Person damit, Fehler bei anderen zu suchen und diese anzugreifen. So soll die eigene Position gesichert und Stärke demonstriert werden.&nbsp;</li><li><strong>Beschwichtigen:</strong> Die eigenen Bedürfnisse werden hinten angestellt, um unter allen Umständen eine harmonische Beziehung zu anderen erhalten zu können. Das kann bis zur Selbstaufgabe gehen.</li><li><strong>Rationalisieren:</strong> Eine bedrohliche Situation wird als harmlos dargestellt oder die eigenen Emotionen, die eine Situation ausgelöst hat, werden ignoriert. Die Person tut alles, um rational und gefasst zu bleiben.&nbsp;</li></ol>
+
+
+
+<p>Bei diesen Mustern werden bestimmte Anteile der Kommunikation oder des Bewusstseins verzerrt oder ausgeblendet. Als Lernbegleiter:in gilt es hier gegenzusteuern, auf die eigentliche Problematik zurückzukommen oder gemeinsam eine Lösung für den Druck/Stress der Person zu finden.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Warum ist Kommunikation oft nicht so einfach?</h4>
+
+
+
+<p>Kommunikation ist immer eine zwischenmenschliche Sender-Empfänger Beziehung. Und bei dieser Beziehung kann es Störungen geben.&nbsp;</p>
+
+
+
+<p>Ein Grund dafür ist, dass Kommunikation über verschiedene Ebenen läuft. Es gibt natürlich das, was ausgesprochen wird, also die verbale Botschaft, aber gleichzeitig auch Botschaften, die parallel nonverbal, extraverbal oder paraverbal gesendet werden. Die folgende Tabelle liefert eine Übersicht zu möglichen paraverbalen, extraverbalen und nonverbalen Anteilen in der Kommunikation.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Paraverbal</th><th>Extraverbal</th><th>Nonverbal</th></tr></thead><tbody><tr><td>Lautheit<br>Tonhöhe<br>Sprechgeschwindigkeit<br>Pausen<br>Sprachmelodie</td><td>Individuelle Stimmeigenschaften (Näseln, Knarzen)<br>Typische Eigenschaften aufgrund von Alter, Geschlecht usw.<br>Dialekt</td><td>Mimik<br>Gestik<br>Körperhaltung<br><br></td></tr></tbody></table></figure>
+
+
+
+<p class="has-small-font-size"><em>Übersicht zu paraverbalen, extraverbalen und nonverbalen Anteilen der Kommunikation (Plate, 2013)</em></p>
+
+
+
+<p>Gleichzeitig treffen die verschiedenen Botschaften des Senders auf einen Empfänger, der durch seine Erfahrungen geprägt ist. Diese Erfahrungen beeinflussen, wie die Botschaft ankommt und welche Schlussfolgerungen daraus gezogen werden.&nbsp;</p>
+
+
+
+<p>Hierzu passt das Zitat des Soziologen Niklas Luhmann: “Kommunikation ist unwahrscheinlich.”</p>
+
+
+
+<p>Bei der Kommunikation kann es durch die verschiedenen Ebenen und die Prägungen von Sender und Empfänger zu vielen Arten von Missverständnissen kommen. Um diese zu vermeiden, lohnt es sich deshalb, potenzielle Hindernisse einmal genauer unter die Lupe zu nehmen.</p>
+
+
+
+<p>Beispiele für potenzielle Missverständnisse umfassen …</p>
+
+
+
+<ul><li>… in der verbalen Kommunikation (z.B. Sprachbarrieren): Korn vs. Corn</li><li>… bei der schriftlichen Kommunikation: “Komm wir essen (,) Opa.”; “Was reizt Sie an Ihrer Frau?”</li><li>… mit Blick auf die Betonung:<ul><li>“<strong>GLAUBEN</strong> Sie, dass das genügt?”&nbsp;</li><li>“Glauben <strong>SIE</strong>, dass das genügt?”</li><li>“Glauben Sie, <strong>DASS</strong> das genügt?”&nbsp;</li><li>“Glauben Sie, dass <strong>DAS</strong> genügt?”</li></ul></li></ul>
+
+
+
+<p>Gute Kommunikation erkennt man daran, dass Absicht und Verständnis deckungsgleich sind. Die gesendete Botschaft ist bei dem Empfänger angekommen und wurde auch so verstanden.&nbsp;</p>
+
+
+
+<p>Ein berühmtes Kommunikationsmodell ist das Kommunikationsquadrat von Friedemann Schulz von Thun. Nach Schulz von Thun gibt es bei der Kommunikation vier Ebenen:&nbsp;</p>
+
+
+
+<ol><li>Sachinhalt</li><li>Appell</li><li>Beziehung</li><li>Selbstkundgabe</li></ol>
+
+
+
+<p>Nach Schulze von Thun spricht der Sender mit vier Mündern, die jeweils für eine der Ebenen stehen, während der Empfänger ebenfalls mit vier Ohren hört, also mit einem Ohr für jede Ebene.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="363" src="./wp-content/uploads/2022/09/Kommunikationsquadrat-1024x363.png" alt="" class="wp-image-5517" srcset="/wp-content/uploads/2022/09/Kommunikationsquadrat-1024x363.png 1024w, /wp-content/uploads/2022/09/Kommunikationsquadrat-300x106.png 300w, /wp-content/uploads/2022/09/Kommunikationsquadrat-768x273.png 768w, /wp-content/uploads/2022/09/Kommunikationsquadrat-1536x545.png 1536w, /wp-content/uploads/2022/09/Kommunikationsquadrat.png 1826w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Zwar kann der Sender bei einer Kommunikation eine Ebene besonders betonen. Das bedeutet jedoch nicht, dass der Empfänger nur auf dem entsprechenden Ohr hört.&nbsp;</p>
+
+
+
+<p><strong>Ein Beispiel bei Missverständigung auf verschiedenen Ebenen: </strong>Ein Mann und eine Frau sitzen beim Abendessen. Die Frau sieht Koriander in der Suppe und fragt: “Was ist das Grüne in der Suppe?”&nbsp;</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow">
+<p>Die Frau meint damit:</p>
+
+
+
+<ul><li>Sachinhalt: Da ist etwas Grünes.</li><li>Appell: Sag mir, was es ist!</li><li>Beziehung: Du wirst es wissen.</li><li>Selbstkundgabe: Ich weiß nicht, was es ist.&nbsp;</li></ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p>Auf der anderen Seite hört der Mann:&nbsp;</p>
+
+
+
+<ul><li>Sachinhalt: Da ist etwas Grünes.</li><li>Appell: Lass das nächste Mal das Grüne weg!</li><li>Beziehung: Du bist ein miserabler Koch.</li><li>Selbstkundgabe: Mir schmeckt das Essen nicht.</li></ul>
+</div>
+</div>
+
+
+
+<p>Der Mann antwortet gereizt: “Mein Gott, wenn es dir hier nicht schmeckt, kannst du ja woanders essen gehen!”</p>
+
+
+
+<p>Dieses Beispiel zeigt deutlich, welchen Interpretationsspielraum selbst eine kurze Aussage haben kann. Außerdem wird klar, dass Kommunikation auch mit der Vorgeschichte bzw. Beziehung von Sender und Empfänger, dem Kontext, dem Tonfall und vielen anderen Signalen zu tun hat.</p>
+
+
+
+<h4 class="wp-block-heading">Warum ist Gedankenlesen keine Alternative zu Gesprächen?</h4>
+
+
+
+<p>Am besten lässt sich diese Fragen mit dieser kleinen Geschichte des Philosophen Paul Watzlawick beantworten:</p>
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube"><div class="lyte-wrapper" title="die geschichte mit den Hammer" style="width:1280px;max-width:100%;margin:5px;"><div class="lyMe" id="WYL_yi9SqJQ5Hr4"><div id="lyte_yi9SqJQ5Hr4" data-src="./wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fyi9SqJQ5Hr4%2Fhqdefault.jpg" class="pL"><div class="tC"><div class="tT">die geschichte mit den Hammer</div></div><div class="play"></div><div class="ctrl"><div class="Lctrl"></div><div class="Rctrl"></div></div></div><noscript><a href="https://youtu.be/yi9SqJQ5Hr4" rel="nofollow"><img src="./wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fyi9SqJQ5Hr4%2F0.jpg" alt="die geschichte mit den Hammer" width="1280" height="700" /><br />Watch this video on YouTube</a></noscript></div></div><div class="lL" style="max-width:100%;width:1280px;margin:5px;"><br/><span class="lyte_disclaimer">By playing this video, some data will be transmitted to YouTube servers.</span></div><figcaption></figcaption></figure>
+
+
+<p>Diese Geschichte verdeutlicht sehr gut, was passieren kann, wenn wir nicht kommunizieren, weil wir schon eine konkrete Vorstellung bzw. Phantasie dazu haben, wie unser Gegenüber reagieren wird. Denn mit unseren Annahmen und Vorstellungen können wir komplett daneben liegen.Es eignen sich wohl wenige Maßnahmen besser zur Erzeugung eine Kommunikationsstörung, als die Konfrontation des ahnungslosen Partners mit dem letzten Glied einer langen, komplizierten Kette von Phantasien, in denen er:sie eine entscheidende negative Rolle spielt.</p>
+
+
+
+<p>Dieser Gedanke ist besonders wichtig für Ausbilder:innen oder Lernbegleiter:innen. Denn wenn es darum geht, warum Lernende sich wie verhalten, dann neigt man oft dazu, voreilige Annahmen zu treffen. Anstatt von diesen Annahmen auszugehen, sollte jedoch am besten der Schritt in die Kommunikation mit den Lernenden gegangen werden. Nachzufragen kann helfen, Missverständnisse zu vermeiden und Konflikten vorzubeugen. Das folgende Beispiel kann das noch verdeutlichen: Eine Auszubildende geht schon vor dem offiziellen Feierabend nach Hause und lässt alles stehen und liegen. Von außen könnte man also leicht annehmen, dass die Auszubildende einfach keine Lust auf die Arbeit hat. In einem gemeinsamen Gespräch kommt dann jedoch heraus, dass sie auf einen bestimmten Bus angewiesen ist, der nur einmal fährt. Gemeinsam kann dann ein anderer Arbeitsbeginn und -schluss abgestimmt werden, der es der Auszubildenden ermöglicht, sowohl ihr Arbeitspensum zu erfüllen als auch rechtzeitig nach Hause zu kommen</p>
+
+
+
+<p>Weitere Lösungen für gestörte Kommunikation bieten die Metakommunikation, das aktive Zuhören und das aufmerksame Beobachten sowie kongruente verbale und non-verbale Kommunikation.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="386" src="./wp-content/uploads/2022/09/Vermeidung-von-gestörter-Kommunikation-1024x386.png" alt="" class="wp-image-5519" srcset="/wp-content/uploads/2022/09/Vermeidung-von-gestörter-Kommunikation-1024x386.png 1024w, /wp-content/uploads/2022/09/Vermeidung-von-gestörter-Kommunikation-300x113.png 300w, /wp-content/uploads/2022/09/Vermeidung-von-gestörter-Kommunikation-768x289.png 768w, /wp-content/uploads/2022/09/Vermeidung-von-gestörter-Kommunikation.png 1221w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Gerade bei Lernbegleiter:innen sind diese Kompetenzen besonders wichtig.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Weiterer Aspekt von Kommunikation</h4>
+
+
+
+<p>Ein weiteres spannendes Thema ist die barrierefreie Kommunikation. Bei Kommunikation geht es um die Teilnahme am sozialen Leben, deswegen sollte die eigene Kommunikation für möglichst viele Menschen zugänglich sein.</p>
+
+
+
+<p>Barrierefreie Kommunikation versucht folgende Barrieren zu vermeiden (Jekat, o.J.):</p>
+
+
+
+<ul><li>Visuelle Barrieren: Menschen mit einer Sehbehinderung können die Bilder in Filmen nicht oder nur teilweise sehen. Filme sind also eine visuelle Barriere für Blinde oder Menschen mit einer Sehbehinderung.</li><li>Akustische Barrieren: Menschen mit einer Hörbehinderung können Gesprochenes nicht oder nur teilweise hören. Gesprochene Texte können also eine akustische Barriere für Menschen mit einer Hörbehinderung sein.</li><li>Verständnisbarrieren: Texte können schwierige Wörter enthalten, die manche Menschen nicht oder nur teilweise verstehen. Komplexe Texte können also für manche Menschen eine Barriere darstellen.</li><li>Sprachliche und kulturelle Barrieren: Wenn Menschen nicht die gleiche Sprache wie ihre Gesprächspartner sprechen, dann entstehen sprachliche oder auch kulturelle Barrieren.</li></ul>
+
+
+
+<p>Die folgenden Links bieten die Möglichkeit tiefer in dieses Thema einzusteigen:</p>
+
+
+
+<ul><li>Mehr dazu Handbuch Barrierefreie Kommunikation: <a href="https://www.frank-timme.de/fileadmin/docs/Handbuch_Barrierefreie_Kommunikation_OA.pdf" target="_blank" rel="noreferrer noopener">https://www.frank-timme.de/fileadmin/docs/Handbuch_Barrierefreie_Kommunikation_OA.pdf</a>&nbsp;</li><li>Linktipps der Stiftung barrierefrei kommunizieren: <a href="https://www.stiftung-barrierefrei-kommunizieren.de/unsere-arbeit/linktipps" target="_blank" rel="noreferrer noopener">https://www.stiftung-barrierefrei-kommunizieren.de/unsere-arbeit/linktipps</a>&nbsp;</li></ul>
+
+
+
+<h4 class="wp-block-heading">Tipps und Tricks</h4>
+
+
+
+<ul><li><strong>Start der Kommunikation: </strong>Als Lernbegleiter:in oder Ausbilder:in bist du das Beispiel für den gemeinsamen Umgang und die Kommunikation in der Gruppe. Deshalb sei achtsam, wie du den Start der Kommunikation mit einer neuen Gruppe oder in einem neuen Kurs gestaltest. Stelle dich vor und lade auch andere ein, das zu tun. Mit der Offenheit, die du in eine Gruppe bringst, motivierst du auch andere dazu. So kannst du anderen helfen, auch eine persönliche Ebene mit in die Kommunikation zu bringen, wenn das gewünscht ist.&nbsp;</li><li><strong>Ich-Botschaften statt Du-Botschaften: </strong>Vor allem in konfliktreichen Situationen, aber auch in Gesprächen mit unterschiedlichen Hierarchie-Ebenen kann es helfen, die eigenen Aussagen als Ich-Botschaften zu formulieren, statt mit dem “Du” zu arbeiten. Denn Aussagen mit Du-Botschaften können als destruktiv und als Angriff beim Gegenüber ankommen.</li><li><strong>Umgang mit Missverständnissen in der digitalen Kommunikation</strong>: <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=F68hpyrx_A0" target="_blank">https://www.youtube.com/watch?v=F68hpyrx_A0</a>&nbsp;</li></ul>
+
+
+
+<div class="wp-block-group has-4-ed-1-background-color has-background is-layout-flow">    <div class="block-questions">
+                    <div class="block-questions-item active">
+                Welche Kommunikationsstörungen hast du in deinem Arbeitsalltag erlebt?            </div>
+                    <div class="block-questions-item ">
+                Was beobachtest du an deiner eigenen Kommunikation in Stresssituationen?            </div>
+                    <div class="block-questions-item ">
+                Was macht für dich gute Kommunikation aus?            </div>
+                <button id="questions-button645c134bae12e">Nächste Frage</button>        <script>
+            window.addEventListener('load', function() {
+                var button = document.getElementById('questions-button645c134bae12e');
+                button.addEventListener('click', function() {
+                    var items = button.parentElement.querySelectorAll('.block-questions-item');
+                    var activeIndex = [...items].findIndex(function(item) {
+                        return item.classList.contains('active');
+                    });
+                    items[activeIndex].classList.remove('active');
+                    items[(activeIndex + 1) % items.length].classList.add('active');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+
+
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
+
+
+
+<h5 class="wp-block-heading">Quellen</h5>
+
+
+
+<ul class="has-small-font-size"><li>Jekat, S. (o. J.). Barrierefreie Kommunikation: Wichtige Begriffe kurz und einfach erklärt. <em>ZHAW Angewandte Linguistik</em>. https://www.zhaw.ch/de/linguistik/forschung/kompetenzzentrum-barrierefreie-kommunikation/barrierefreie-kommunikation-wichtige-begriffe/</li><li>Plate, M. (2013). <em>Grundlagen der Kommunikation</em>. Vandenhoeck &amp; Ruprecht.</li><li>von Schlippe, A. (2013). Vorwort. In Plate, M.: <em>Grundlagen der Kommunikation</em>. Vandenhoeck &amp; Ruprecht.</li><li>Watzlawick, P., Beavin, J. &amp; Jackson, D. (1969). <em>Menschliche Kommunikation.</em> Huber.</li></ul>
+							<h4>Next Article</h4>
+				<a href="./article/konflikte/?lang=en" class="article-next">
+					<img width="640" height="360" src="./wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-640x360.jpg" class="attachment-article-thumbnail size-article-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-640x360.jpg 640w, /wp-content/uploads/2022/09/jean-wimmerlin-e1daGOrmkIk-unsplash-1280x720.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />					<div>
+												<br>
+						Konflikte						<br>
+						10 min
+					</div>
+				</a>
+					</div>
+	</article>
+</div>
+
+</main>
+
+<footer>
+	<div class="container">
+		&copy; 2023 - Forever Day One
+		<br>
+					<a href="./?lang=en&logout=1">Logout</a>
+			|
+				<a href="./datenschutzerklaerung/?lang=en">Datenschutzerklärung</a> |
+		<a target="_blank" href="https://foreverday.one/impressum">Impressum</a>
+	</div>
+</footer>
+
+<script type="text/javascript" data-cfasync="false">var bU="/wp-content/plugins/wp-youtube-lyte/lyte/";var mOs=null;style = document.createElement("style");style.type = "text/css";rules = document.createTextNode(".lyte-wrapper-audio div, .lyte-wrapper div {margin:0px; overflow:hidden;} .lyte,.lyMe{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background-color:#777;} .fourthree .lyMe, .fourthree .lyte {padding-bottom:75%;} .lidget{margin-bottom:5px;} .lidget .lyte, .widget .lyMe {padding-bottom:0!important;height:100%!important;} .lyte-wrapper-audio .lyte{height:38px!important;overflow:hidden;padding:0!important} .lyMe iframe, .lyte iframe,.lyte .pL{position:absolute !important;top:0;left:0;width:100%;height:100%!important;background:no-repeat scroll center #000;background-size:cover;cursor:pointer} .tC{left:0;position:absolute;top:0;width:100%} .tC{background-image:linear-gradient(to bottom,rgba(0,0,0,0.6),rgba(0,0,0,0))} .tT{color:#FFF;font-family:Roboto,sans-serif;font-size:16px;height:auto;text-align:left;padding:5px 10px 50px 10px} .play{background:no-repeat scroll 0 0 transparent;width:88px;height:63px;position:absolute;left:43%;left:calc(50% - 44px);left:-webkit-calc(50% - 44px);top:38%;top:calc(50% - 31px);top:-webkit-calc(50% - 31px);} .widget .play {top:30%;top:calc(45% - 31px);top:-webkit-calc(45% - 31px);transform:scale(0.6);-webkit-transform:scale(0.6);-ms-transform:scale(0.6);} .lyte:hover .play{background-position:0 -65px;} .lyte-audio .pL{max-height:38px!important} .lyte-audio iframe{height:438px!important} .lyte .ctrl{background:repeat scroll 0 -220px rgba(0,0,0,0.3);width:100%;height:40px;bottom:0px;left:0;position:absolute;} .lyte-wrapper .ctrl{display:none}.Lctrl{background:no-repeat scroll 0 -137px transparent;width:158px;height:40px;bottom:0;left:0;position:absolute} .Rctrl{background:no-repeat scroll -42px -179px transparent;width:117px;height:40px;bottom:0;right:0;position:absolute;padding-right:10px;}.lyte-audio .play{display:none}.lyte-audio .ctrl{background-color:rgba(0,0,0,1)}.lyte .hidden{display:none}");if(style.styleSheet) { style.styleSheet.cssText = rules.nodeValue;} else {style.appendChild(rules);}document.getElementsByTagName("head")[0].appendChild(style);</script><script type="text/javascript" data-cfasync="false" async src="./wp-content/plugins/wp-youtube-lyte/lyte/lyte-min.js?wyl_version=1.7.21"></script><style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-3.wp-container-3{flex-wrap:nowrap;}
+</style>
+
+</body>
+
+</html>

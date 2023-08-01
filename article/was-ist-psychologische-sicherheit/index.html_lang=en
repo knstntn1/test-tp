@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="logo" type="image/svg" href="./logo.png?lang=en">
+	<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?lang=en">
+	<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png?lang=en">
+	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png?lang=en">
+	<link rel="mask-icon" href="./safari-pinned-tab.svg?lang=en" color="#000000">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+
+	<title>Was ist psychologische Sicherheit? &#8211; VW Third Place</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="de" href="./article/was-ist-psychologische-sicherheit/" />
+<link rel="alternate" hreflang="en" href="./article/was-ist-psychologische-sicherheit/?lang=en" />
+<link rel="alternate" hreflang="x-default" href="./article/was-ist-psychologische-sicherheit/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/learn.foreverday.one\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #248ef7;--wp--preset--color--secondary: #78e04d;--wp--preset--color--third: #ff3d43;--wp--preset--color--fourth: #963a89;--wp--preset--color--fifth: #ff7200;--wp--preset--color--sixth: #367b6e;--wp--preset--color--learning-project: #fdf577;--wp--preset--color--4-ed-1: #22ffaa;--wp--preset--color--client: #e20074;--wp--preset--color--gray: #efefef;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 0.875rem;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 1.125rem;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 1.5rem;--wp--preset--font-size--xl: 1.25rem;--wp--preset--font-size--xxl: 1.5rem;--wp--preset--font-size--xxxl: 1.875rem;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 860px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: 24px; }body { --wp--style--block-gap: 24px; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-flex{gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-third-color{color: var(--wp--preset--color--third) !important;}.has-fourth-color{color: var(--wp--preset--color--fourth) !important;}.has-fifth-color{color: var(--wp--preset--color--fifth) !important;}.has-sixth-color{color: var(--wp--preset--color--sixth) !important;}.has-learning-project-color{color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-color{color: var(--wp--preset--color--4-ed-1) !important;}.has-client-color{color: var(--wp--preset--color--client) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-third-background-color{background-color: var(--wp--preset--color--third) !important;}.has-fourth-background-color{background-color: var(--wp--preset--color--fourth) !important;}.has-fifth-background-color{background-color: var(--wp--preset--color--fifth) !important;}.has-sixth-background-color{background-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-background-color{background-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-background-color{background-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-background-color{background-color: var(--wp--preset--color--client) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-third-border-color{border-color: var(--wp--preset--color--third) !important;}.has-fourth-border-color{border-color: var(--wp--preset--color--fourth) !important;}.has-fifth-border-color{border-color: var(--wp--preset--color--fifth) !important;}.has-sixth-border-color{border-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-border-color{border-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-border-color{border-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-border-color{border-color: var(--wp--preset--color--client) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-regular-font-size{font-size: var(--wp--preset--font-size--regular) !important;}.has-xl-font-size{font-size: var(--wp--preset--font-size--xl) !important;}.has-xxl-font-size{font-size: var(--wp--preset--font-size--xxl) !important;}.has-xxxl-font-size{font-size: var(--wp--preset--font-size--xxxl) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='sign-in-with-google-css' href='/wp-content/plugins/sign-in-with-google/src/public/css/sign-in-with-google-public.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='/wp-content/themes/learning-hub/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='./wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js' id='wpml-cookie-js'></script>
+<link rel="https://api.w.org/" href="./wp-json/" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/article/4917" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<link rel="canonical" href="./article/was-ist-psychologische-sicherheit/" />
+<link rel='shortlink' href='/?p=4917&#038;lang=en' />
+<link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fwas-ist-psychologische-sicherheit%2F%3Flang%3Den" />
+<link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fwas-ist-psychologische-sicherheit%2F%3Flang%3Den&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.5.12 stt:1,3;" />
+			<style>
+			body {
+				--wp--preset--color--client: #0f16dd;
+							}
+		</style>
+	</head>
+
+<body class="article-template-default single single-article postid-4917" >
+	<main>
+					<div class="menu">
+			</div>
+			<label for="menu-toggle" class="menu " id="menu">
+			</label>
+
+			<input id="menu-toggle" type="checkbox" />
+			<div class="menu-container">
+				<div class="menu-sheet">
+					<div class="menu-header-row">
+						<label for="menu-toggle" class="menu-close"></label>
+						<div style="flex-grow: 1"></div>
+
+											</div>
+					<a href="./overview_page/analysieren-gestalten-day-one-learning-guide/?lang=en">Home</a>
+												<div>
+								<a href="./overview_page/einfuehrung-third-place/?lang=en">Einführung in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/agiles-arbeiten-in-third-place/?lang=en">Agiles Arbeiten in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/vw_third-place_lernpfad-lernbegleiterin/?lang=en">Lernpfad zur Lernbegleiter:in</a>
+								<div class="menu-nested">
+																				<a href="./overview_page/vorleben-inspirieren/?lang=en">Vorleben &#038; Inspirieren</a><br>
+																				<a href="./overview_page/analysieren-gestalten/?lang=en">Analysieren &#038; Gestalten</a><br>
+																				<a href="./overview_page/erkennen-entwickeln/?lang=en">Erkennen &#038; Entwickeln</a><br>
+																				<a href="./overview_page/begleiten-halten/?lang=en">Begleiten &#038; Halten</a><br>
+																	</div>
+							</div>
+												<div>
+								<a href="./toolbox/?lang=en">Toolbox</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+									</div>
+			</div>
+
+			<script>
+				function initializeMenu() {
+					const container = document.querySelector(".menu-container");
+					document.querySelector("#menu").addEventListener("click", () => {
+						container.classList.add("opened");
+					});
+					document.querySelector(".menu-sheet").addEventListener("click", (e) => {
+						e.stopPropagation();
+					});
+					for (const el of [container, document.querySelector(".menu-close")])
+						el.addEventListener("click", () => {
+							container.classList.add("closing");
+							setTimeout(() => {
+								container.classList.remove("closing");
+								container.classList.remove("opened");
+							}, 320);
+						});
+				}
+				initializeMenu();
+			</script>
+		
+		
+<div class="container">
+		<article id="post-4917" class="post-4917 article type-article status-publish has-post-thumbnail hentry">
+		<div class="entry-content">
+			<h1>Was ist psychologische Sicherheit?</h1>
+			<img width="1280" height="720" src="./wp-content/uploads/2022/08/matthew-waring-MJAoiige14E-unsplash-1280x720.jpg" class="article-featured-image wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/matthew-waring-MJAoiige14E-unsplash-1280x720.jpg 1280w, /wp-content/uploads/2022/08/matthew-waring-MJAoiige14E-unsplash-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />			
+<h4 class="wp-block-heading"><strong>Psychologische Sicherheit: Von einer Kultur der Angst zu einer Kultur der Offenheit</strong></h4>
+
+
+
+<p>Psychologische Sicherheit ist ein Gruppen- und Teamphänomen. Im Folgenden werden wir uns anschauen, was das genau bedeutet, woran man Psychologische Sicherheit im Alltag erkennen kann und was Psychologische Sicherheit nicht ist.</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Was ist Psychologische Sicherheit im Detail?</strong></h4>
+
+
+
+<blockquote class="wp-block-quote"><p>“No passion so effectively robs the mind of all its powers of acting and reasoning as fear.”</p><cite>Edmund Burke, 1756</cite></blockquote>
+
+
+
+<p>Angst ist ein absoluter Innovationskiller, der uns nicht nur viel Energie oder Motivation raubt, sondern auch unsere Kreativität und Problemlösungskompetenz mindert. Das gilt auch und insbesondere für die Team- und Gruppenebene in Organisationen oder sozialen Systemen. Hier sprechen wir dann von psychologischer Sicherheit.</p>
+
+
+
+<p></p>
+
+
+
+<blockquote class="wp-block-quote"><p>“Psychologische Sicherheit ist ein Klima, in dem man das Gefühl hat, dass man offen sein kann. Es ist ein Ort, an dem sich zwischenmenschliche Risiken machbar anfühlen, zwischenmenschliche Risiken, wie das Ansprechen von Fragen, Bedenken und halbgaren Ideen und sogar Fehlern.”  </p><cite>Amy Edmondson</cite></blockquote>
+
+
+
+<p>Amy Edmondson fasst es auch so zusammen: “Die Überzeugung, dass es in Ordnung ist, die eigene Meinung zu sagen und dabei das Gefühl zu haben, dass die eigene Stimme zählt.”</p>
+
+
+
+<p>Was bedeutet das konkret? Bei der Arbeit und insbesondere in der Zusammenarbeit mit anderen Menschen treffen wir konstant Abwägungen – und das bewusst und unterbewusst:</p>
+
+
+
+<ul><li>Welches Risiko gehe ich ein? Wie hoch ist das Risiko, gedemütigt, erniedrigt oder sogar sozial ausgestoßen zu werden?</li></ul>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Das Gegenteil von psychologischer Sicherheit: Organisationale Stille</strong></h4>
+
+
+
+<p>Entscheiden wir uns dagegen, unsere Ideen zu teilen, Kritik zu äußern oder eine Frage zu stellen, dann herrscht Stille. Hierbei handelt es sich um eine besondere Form der Stille, die Organisationspsychologen “Organisationale Stille” nennen.</p>
+
+
+
+<p><img decoding="async" loading="lazy" width="364" height="364" src="https://lh3.googleusercontent.com/q7w4KH6b-y0NFGY5Dbsuj8FqDtd_TbzdMfcHpfZ_c_bjG84ifl61_mlXZG1FZECFzY9RutlUzGmlW3ig5QLoV8fiNakiWeKas6ZV4D22D0ZtD9_vrAVZg_XX6v7adGKnV5cBecgIW11Evm6fOeKhkaE"></p>
+
+
+
+<p>Quelle: @lizandmollie Instagram (Link)</p>
+
+
+
+<p>Diese “Organisationale Stille” ist das Gegenteil von psychologischer Sicherheit und könnte konkret so aussehen: Abschreckende Meetings, bei denen die Mitarbeitende gemaßregelt werden. Bestrafung steht auf der Tagesordnung, wenn Mitarbeitende Bedenken äußern oder Fehler eingestehen. Es herrscht ein hohes zwischenmenschliches Risiko und es regiert die Angst, inkompetent, ignorant oder übergriffig zu wirken.&nbsp;</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Wie man nicht wirken will:&nbsp;</strong></td><td><strong>Konsequenz, die man aus der Angst zieht und zur organisationalen Stille führt:</strong></td></tr><tr><td>Ignorant</td><td>“Ich stelle einfach keine Fragen!”</td></tr><tr><td>Inkompetent</td><td>“Ich gebe keine Fehler zu und sage nur etwas, wenn mir zu 100 Prozent sicher bin”</td></tr><tr><td>Übergriffig</td><td>“Ich teile meine Ideen nicht und kritisiere nichts, was meine Führungskraft (mit-)gemacht hat”</td></tr><tr><td>Zynisch</td><td>“Ich hinterfrage den Status Quo nicht”</td></tr></tbody></table></figure>
+
+
+
+<p>Es lohnt sich, die Aufmerksamkeit auf diese Momente der Stille zu richten, um Momente und damit Umfelder zu identifizieren, in denen die Psychologische Sicherheit noch ausbaufähig ist.</p>
+
+
+
+<p><em>Reflexionsfrage: In welchen Runden mit welcher Zusammensetzung kannst du Organisationale Stille identifizieren?</em></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Kultur des Schweigens und der Angst vs. Kultur des Teilens und der Offenheit</strong></h4>
+
+
+
+<p>Es lohnt sich, das positive und das negative Ende des Spektrums anzuschauen, denn auch bei der Psychologischen Sicherheit gibt es eher ein Spektrum und keinen Schalter, der entweder “An” oder “Aus” ist.</p>
+
+
+
+<p></p>
+
+
+
+<p><em><strong>Kultur des Schweigens und der Angst</strong></em></p>
+
+
+
+<p>Laut Edmondson war die Kultur der Angst gerade dann sehr dominant, wenn geniale Gründer:innen und Erfinder:innen das Unternehmen mit harter Hand und Angst führten – und so versuchten, ihre Mitarbeitenden zu motivieren. Manchmal ist diese Art der Kultur auch unter dem Namen “Hero-Culture” bekannt, das heißt, Einzelpersonen agieren als geniale Einzelkämpfer und retten als Helden den Unternehmenserfolg. In diesem Fall sind es die Chef:innen, die besondere Leistungen erbringen und ihre Mitarbeitenden für die Ausführung und Umsetzung Ihrer Ideen brauchen.&nbsp;</p>
+
+
+
+<p>In diesen Kulturen herrscht primär Angst und es fällt sehr schwer, Führungskräfte und ihre Autorität in Frage zu stellen.&nbsp;</p>
+
+
+
+<p>Es gibt einige Beispiele, die zeigen, welche drastische Folgen das haben kann: Nokia, Kodak, Blackberry und auch Unternehmen, die in den Dieselskandal verwickelt waren. In diesen Konzernen waren es jeweils die Top-Leader oder der CEO, die dafür bekannt waren, andere Leute einzuschüchtern, laut oder sogar aggressiv zu werden. Menschen in diesen Kontexten lernen schnell, unangenehme Dinge nicht mehr anzusprechen oder nur dann, wenn es eigentlich schon zu spät ist. Es wird lieber weggeschaut als Bedenken zu Prozessen zu äußern – organisationale Stille eben.</p>
+
+
+
+<p>Oft herrscht in solch unsicheren Umfeldern auch eine Kultur des Sagens. Gerade Führungskräfte versuchen also, so schnell wie möglich eine Antwort oder Meinung zu haben, um nicht inkompetent oder angreifbar zu wirken. Das Resultat: Es wird seltener aktiv zugehört, sondern oft direkt überlegt, was der nächste eigene Wortbeitrag sein könnte.</p>
+
+
+
+<p></p>
+
+
+
+<p><em><strong>Kultur des Teilens und der Offenheit</strong></em></p>
+
+
+
+<p>In einer Kultur der Offenheit hingegen braucht es Mut. Für Fortschritt und Innovation braucht es das Scheitern – und zwar das intelligente Scheitern. Dabei geht es darum, schnell mit neuen Ansätzen zu experimentieren, neue Ideen zu testen und sie schnell zu verwerfen, wenn sie nicht die gewünschte Wirkung entfalten. Doch wie funktioniert das? Durch Menschen, die sich trauen, das zu tun, was sie für richtig halten, und das zu sagen, was sie denken – gerade dann, wenn es unangenehm werden könnte oder gegen die Mehrheit&nbsp; geht. Nur wenn diese Gedanken oder Ideen vorbehaltlos geteilt werden, entsteht wirklich Neues.&nbsp;</p>
+
+
+
+<p>In einer Kultur des Schweigens halten Menschen diese Fähigkeiten jedoch zurück, weil sie Angst vor zwischenmenschlichen Risiken haben.&nbsp;</p>
+
+
+
+<p>In der Kultur der Offenheit und des Teiles können wir uns einbringen und besonders authentisch wir selbst sein. Psychologische Sicherheit bedeutet dabei, dass eben nicht nur zwischen zwei Individuen Vertrauen herrscht, sondern innerhalb einer gesamten Gruppe. Denn Psychologische Sicherheit ist ein Team- und Gruppenphänomen.&nbsp;</p>
+
+
+
+<p>Im Gegensatz zu der Kultur des Sagens, in der es darum geht, schnell kompetent zu wirken, geht es hier eher um eine Kultur des Fragens. Dahinter steht eine Haltung der Neugierde mit der Einstellung, dass es wahrscheinlich jemand anderes besser weiß und dass man von jedem Menschen, den man trifft, etwas lernen kann.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Wenn du keine Psychologische Sicherheit hast …</strong></td><td><strong>Wenn du Psychologische Sicherheit hast …</strong></td></tr><tr><td>Fehler als Gefahr für die eigene Karriere sehen</td><td>Fehler als Chance für Wachstum und Lernen sehen</td></tr><tr><td>Nicht die Stimmung versauen</td><td>Bereitschaft, Risiken einzugehen und zu scheitern</td></tr><tr><td>Vorrangig Stärken zeigen</td><td>Offen Herausforderungen teilen</td></tr><tr><td>Gedanken in Meetings zurückhalten</td><td>Ideen und Gedanken offen teilen</td></tr><tr><td>Angst vor Vorgesetzten und Teammitgliedern</td><td>Vertrauen in Vorgesetzte und Teammitglieder</td></tr></tbody></table></figure>
+
+
+
+<p>Quelle: Grant, A. (2021). Think Again: The Power of Knowing What You Don’t Know. Virgin Digital.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Macht dann nicht jede:r, was er/sie will und ist das überhaupt “produktiv”?</strong></h4>
+
+
+
+<p>Übliche Sorgen, gerade von Führungskräften, im Kontext der Stärkung von Psychologischer Sicherheit sehen so aus: Dann sind doch alle nur “nett” zueinander, dann geht unsere Qualität flöten, oder: Machen wir dann nicht deutlich mehr Fehler?</p>
+
+
+
+<p>Die Forschung rund um die Psychologische Sicherheit in Organisationen zeigt eher gegenteilige Ergebnisse. Informationen und Emotionen werden bewusster geteilt und es gibt selten Oversharing. Nur weil man sich sicher fühlt, wird nicht gleich alles geteilt. Psychologische Sicherheit löst Bremsen, die uns ansonsten daran hindern, unser Bestes zu geben. Wir sind weniger damit beschäftigt, uns gegenseitig zu beweisen, wie gut wir sind (Fixed Mindset), sondern streiten konstruktiv und neugierig, weil wir das richtige Ergebnis produzieren wollen (Growth Mindset).</p>
+
+
+
+<ul><li>Gerade in psychologisch sicheren Umfeldern wird der konstruktive Dissens oder Konflikt gesucht.&nbsp;</li><li>Gepaart mit einer klaren Verantwortung entsteht kein Umfeld, in dem alles erlaubt ist.&nbsp;</li><li>Die Fehler werden sowieso gemacht, das haben die meisten der heutigen Arbeitskontexte mit ihrer Schnelllebigkeit und Komplexität an sich. Die Frage ist eher: Möchte man, dass die Fehler offen geteilt, analysiert und schlussendlich auch in Zukunft vermieden werden?</li></ul>
+
+
+
+<p>Exzellente Teams mit hoher Psychologischer Sicherheit haben oft auch gute Prozesse und ein gutes Verständnis für effiziente Meetings und bemerken, wenn Kolleg:innen zu viel Raum einnehmen.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Sicherheit mit Verantwortung (auch für Prozesse) kombinieren</strong></h4>
+
+
+
+<p>Die Arbeit von Amy Edmondson zeigt, dass gerade die Ziel- und Outcomeverantwortung wichtig ist, um das Lernen und Wachstum von Individuen und Teams gemeinsam mit Psychologischer Sicherheit zu fördern.</p>
+
+
+
+<p>Dies kann im ersten Schritt wie ein Widerspruch für Psychologische Sicherheit klingen – und doch sind Psychologische Sicherheit und Verantwortung unabhängig voneinander. Amy Edmondson hat durch ihre Arbeit herausgefunden, dass Psychologische Sicherheit ohne Verantwortung dazu führt, dass wir mehr in unserer Komfortzone bleiben. Ist wiederum Accountability vorhanden, nicht aber Sicherheit, dann geraten wir schnell in eine Zone, die von Angst  dominiert wird. </p>
+
+
+
+<p><img decoding="async" loading="lazy" src="https://lh6.googleusercontent.com/k_0tmrMf9mHHgt3N2A79cseiPl2RdyxPued1riZP3NcUrMexabsr_7XmrADClvXp2kOdQc0Di6E-FWStQ_THDA7XczrRtOTMqLOocBrDIXCjtYk1AcMACGofgCsQVANxtlLUbJeZWiHbpeqJkMYo7BI" width="541" height="220"></p>
+
+
+
+<p>Verantwortung für das Endergebnis ist gut, noch besser ist es aber, wenn die Verantwortung auch für den Prozess übernommen wird.&nbsp;</p>
+
+
+
+<p>In starken Leistungskulturen dominieren oft sogenannte “Best Practices” (also Abläufe und Herangehensweisen, die sich als erfolgreich herausgestellt haben). Hierbei besteht die Gefahr, dass viele Prozesse nicht mehr in Frage gestellt werden und eine Kultur des “Das haben wir schon immer so gemacht” entsteht. Organisationales Lernen sollte aber nie aufhören – und “Best Practices” signalisieren, dass man einen Endpunkt erreicht hat.&nbsp;</p>
+
+
+
+<p>Warum ist das relevant?Leistungskulturen fokussieren die Verantwortung oft primär auf das Endergebnis. Dieser Fokus kann dazu führen, dass kurzfristige Leistungen und Ergebnisse ein Hindernis für langfristiges Lernen und Weiterentwicklung werden. Wenn wir nur für das Erreichen oder das Nicht-Erreichen eines Ergebnisses verantwortlich gemacht werden, dann kann das zu falschen Selbstüberschätzung und schlechten Strategien führen und uns motivieren, diese immer wieder zu replizieren. Erst, wenn etwas komplett schiefgeht, wird reflektiert und innegehalten.</p>
+
+
+
+<p>Neben der Verantwortung für das Ergebnis ist somit auch die Verantwortung für den Prozess sehr wichtig. So stellt man sicher, dass die Prozesse weniger durchdacht oder oberflächlich sind und Ansätze öfter in Frage gestellt werden.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Exkurs: Entscheidungsmeetings bei Amazon</strong></h4>
+
+
+
+<p>Ein sehr bekanntes Beispiel für Prozessverantwortung kommt von Amazon. Dort werden wichtige Entscheidungen nämlich nicht auf Basis von PowerPoint Slides getroffen, sondern am Anfang eines Meetings mithilfe eines sechsseitigen Dokuments an Entscheidungsträger:innen weitergegeben. Dieses Dokument hat das Ziel umfassend die zu treffende Entscheidung umreißen, das zugrundeliegende Problem, den Status quo, die zentralen Erkenntnisse sowie daraus abgeleitet Empfehlungen und strategische Prioritäten. Das Dokument wird stumm von jedem individuell gelesen, um Gruppendenken (engl. Group-Think) zu vermeiden. Die Struktur des Dokumentes verlangt von den Personen auch Verantwortung für den Prozess zu übernehmen.</p>
+
+
+
+<p>Dies ist sicher nicht in allen Situationen praktikabel, aber je wichtiger eine Entscheidung ist und je eher diese folgenreich und nicht umkehrbar ist, desto eher lohnt sich der Aufwand. In starken Lernkulturen erweitert sich der Fokus vom Ergebnis deshalb oft auf den Prozess.</p>
+
+
+
+<p><img decoding="async" loading="lazy" src="https://lh3.googleusercontent.com/gWKnfERm8uGjMCUjMxdHy8nra5yThHon-Flp1TIU4TnRfan8IinUneY-IC3PuhRMpB3REG9vUjHhvBi5jFNjtjgkFLjFNjQciO5eL6ruZ1n3HoX8OGIb59d0aMrrT5IFFyXEaD-4EsZITTBBrI45--c" width="558" height="352"></p>
+
+
+
+<p>Quelle: Grant, A. (2021). Think Again: The Power of Knowing What You Don’t Know. Virgin Digital.</p>
+
+
+
+<p>Beide Ebenen zu beachten, eröffnet ein weitaus differenziertes Bild, das auch sehr gut auf Lern- und Entwicklungsprozesse angewandt werden kann.</p>
+
+
+
+<ul><li>Wenn der Outcome positiv ist, dann kann es bei einem tiefen Prozess eine Verbesserung gewesen sein – oder bei einem oberflächlichen Prozess einfach nur Glück&nbsp;</li><li>Wenn der Outcome negativ ist und der Prozess nicht gut, dann war dies eher ein Fehler. Wenn der Prozess aber tief und durchdacht war, dann war es ein Experiment, das gut reflektiert werden kann.</li></ul>
+
+
+
+<p>Die Prozessverantwortung stellt sicher, dass bei wichtigen Entscheidungen die volle Kraft der psychologischen Sicherheit entfaltet werden kann.&nbsp;</p>
+
+
+
+<p><img decoding="async" loading="lazy" width="602" height="144" src="https://lh5.googleusercontent.com/TKNNKR6uUwlhJn6GdpoIpeAWL9seDuiNnLcCJ2tmeEpJ4TyKByxFty1oTFWxO_VlGb8DufXgQrPTE8NNeXSU7BbTvCG8ctEPnGA_L-ITY5Q-58Clry0aqgxpNZe162qzSFgosYg-v429j6qio33eaak">Dies lässt sich so auch auf Lern- und Entwicklungsprozesse übertragen. Hier sollte der Fokus neben dem Lernergebnis zusätzlich auch auf den Lernprozess gelenkt werden – und die Lernenden sollten in die Verantwortung für ihren eigenen Lernprozess gebracht werden.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Ein erster Schritt: Es geht um die Balance aus Komfort und Diskomfort</strong></h4>
+
+
+
+<p>Um die Organisationale Stille zu durchbrechen und die Psychologische Sicherheit positiv zu beeinflussen, braucht es eine gesunde Balance aus Komfort und Diskomfort. Folgende Reflexionsfragen können dabei helfen, diese Balance herzustellen:</p>
+
+
+
+<ul><li>Ist es zu harmonisch?</li><li>Herrscht das Gruppendenken?</li><li>Trauen wir uns nicht, unsere Gedankengänge zu teilen?</li><li>Reiben sich Meinungen und Ideen aneinander?</li><li>Ist ein respektvolles Miteinander vorhanden?</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="896" height="540" src="./wp-content/uploads/2022/08/image-1.png" alt="" class="wp-image-5125" srcset="/wp-content/uploads/2022/08/image-1.png 896w, /wp-content/uploads/2022/08/image-1-300x181.png 300w, /wp-content/uploads/2022/08/image-1-768x463.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></figure>
+
+
+
+<p>Das Ziel ist es, auf der einen Seite ausreichend Spannung, Konfliktfähigkeit und Dynamik aufrechtzuerhalten und auf der anderen Seite einen sicheren Zusammenhalt zu garantieren. Denn nur in dieser Kombination entsteht eine produktive Entwicklungs- und Innovationskultur.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading"><strong>Mögliches Vorgehen</strong></h4>
+
+
+
+<p>Von hier aus gibt es einige Anknüpfungspunkte, abhängig von Neugierde, Rolle und Auftrag. In folgende Themen kann jetzt eingestiegen werden:</p>
+
+
+
+<ul><li>Die Relevanz von Sprache und Symbolen im Kontext von Psychologischer Sicherheit</li><li>Psychologische Sicherheit: Lernkultur, Verwundbarkeit und Fehlerkultur</li><li>Psychologische Sicherheit als Führungskraft oder Vorbild stärken und die vier Stufen von Psychologischer Sicherheit</li><li>Perfektionismus im Kontext von Psychologischer Sicherheit</li></ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Tipps und Tricks</strong></h4>
+
+
+
+<ul><li><strong>Selbstwahrnehmung stärken: </strong>Reflektieren welche Umfelder sich im eigenen Alltag besonders sicher oder besonders unsicher anfühlen</li><li><strong>Eigene Momente der Stille reflektieren: </strong>Wann hat man selbst nichts gesagt, obwohl man eigentlich eine Idee hatte oder Bedenken teilen wollte?</li></ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Reflexionsfragen</strong></h4>
+
+
+
+<ul><li>Welchen positiven oder negativen Einfluss hast du selbst auf die Psychologische Sicherheit im Team?</li></ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Tiefer einsteigen?</strong></h4>
+
+
+
+<ul><li>Grant, A. (2021). Think Again: The Power of Knowing What You Don’t Know. Virgin Digital.</li><li>Edmondson, A. C. (2018). The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth (1st ed.). Wiley.</li></ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Quellen</strong></h4>
+
+
+
+<ul><li>Grant, A. (2021). Think Again: The Power of Knowing What You Don’t Know. Virgin Digital.</li><li>Edmondson, A. C. (2018). The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth (1st ed.). Wiley.</li></ul>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+							<h4>Next Article</h4>
+				<a href="./article/warum-braucht-es-psychologische-sicherheit/?lang=en" class="article-next">
+					<img width="640" height="360" src="./wp-content/uploads/2022/08/matteo-vistocco-Dph00R2SwFo-unsplash-640x360.jpg" class="attachment-article-thumbnail size-article-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/08/matteo-vistocco-Dph00R2SwFo-unsplash-640x360.jpg 640w, /wp-content/uploads/2022/08/matteo-vistocco-Dph00R2SwFo-unsplash-1280x720.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />					<div>
+												<br>
+						Warum braucht es psychologische Sicherheit?						<br>
+						15 min
+					</div>
+				</a>
+					</div>
+	</article>
+</div>
+
+</main>
+
+<footer>
+	<div class="container">
+		&copy; 2023 - Forever Day One
+		<br>
+					<a href="./?lang=en&logout=1">Logout</a>
+			|
+				<a href="./datenschutzerklaerung/?lang=en">Datenschutzerklärung</a> |
+		<a target="_blank" href="https://foreverday.one/impressum">Impressum</a>
+	</div>
+</footer>
+
+
+</body>
+
+</html>

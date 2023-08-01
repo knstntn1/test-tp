@@ -1,0 +1,778 @@
+/*
+Theme Name: LearningHub
+Version: 0.1.0
+License: MIT
+Text Domain: learninghub
+*/
+
+@font-face {
+  font-family: "Inria Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/inriaserif.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Inria Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(fonts/inriaserif-bold.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "ModeratRegular";
+  src: url("fonts/Moderat-Regular.woff") format("woff"),
+    url("fonts/Moderat-Regular.woff2") format("woff2"),
+    url("fonts/Moderat-Regular.eot") format("eot");
+}
+@font-face {
+  font-family: "Moderat";
+  src: url("fonts/Moderat-Regular.woff") format("woff"),
+    url("fonts/Moderat-Regular.woff2") format("woff2"),
+    url("fonts/Moderat-Regular.eot") format("eot");
+}
+@font-face {
+  font-family: "Moderat";
+  font-weight: bold;
+  src: url("fonts/Moderat-Bold.woff") format("woff"),
+    url("fonts/Moderat-Bold.woff2") format("woff2"),
+    url("fonts/Moderat-Bold.eot") format("eot");
+}
+@font-face {
+  font-family: "Moderat";
+  font-weight: 200;
+  src: url("fonts/Moderat-Light.woff") format("woff"),
+    url("fonts/Moderat-Light.woff2") format("woff2"),
+    url("fonts/Moderat-Light.eot") format("eot");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  min-height: calc(100vh - 221px);
+  overflow-x: hidden;
+}
+
+p {
+  margin: 12px 0;
+}
+
+footer {
+  padding: 3rem 0;
+  background: #eee;
+  margin-top: 3rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+body {
+  position: relative;
+  font-family: Moderat, sans-serif;
+  font-weight: 200;
+  line-height: 1.4;
+}
+
+h1 {
+  font-family: "Inria Serif";
+  font-size: 3.5rem;
+  margin-top: 0;
+}
+h2 {
+  font-family: "Inria Serif";
+  font-size: 3.5rem;
+  margin-top: 0;
+}
+h3 {
+  margin-top: 0;
+  font-weight: normal;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+h4 {
+  font-weight: bold;
+  margin-bottom: 12px;
+  font-size: 1.5rem;
+}
+h4:first-child {
+  margin-top: 0;
+}
+h5 {
+  text-transform: uppercase;
+  font-family: Moderat;
+  font-weight: normal;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: normal;
+}
+.wp-block-group h1 {
+  margin-top: 0;
+}
+h1 {
+  margin-top: 2rem;
+}
+@media screen and (max-width: 600px) {
+  h1, h2 {
+    font-size: 2.3rem;
+    line-height: 1.1;
+  }
+  h4 {
+    font-size: 1.2rem;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .menu-sheet {
+    width: 100% !important;
+  }
+}
+
+li {
+  margin: 12px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 6rem;
+}
+@media (max-width: 600px) {
+  .container {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    padding: 0 3rem;
+  }
+}
+.alignfull {
+  width: auto;
+  max-width: 1000%;
+  margin-right: calc(50% - 50vw);
+  margin-left: calc(50% - 50vw);
+}
+
+.block-questions button,
+.toolbox-filter a {
+  display: inline-block;
+  background: #fff;
+  border: 2px solid black;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+.toolbox-filter a.active {
+  background: #333;
+  color: #fff;
+}
+
+/**
+ * Built-in Blocks
+ */
+.wp-block-group {
+  padding-left: 6rem;
+  padding-right: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-left: -6rem;
+  margin-right: -6rem;
+  margin-bottom: 2rem;
+}
+@media (max-width: 600px) {
+  .wp-block-group {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: -3rem;
+    margin-right: -3rem;
+  }
+}
+.wp-block-pullquote {
+  border: none;
+}
+.wp-block-columns {
+  margin-bottom: 0;
+}
+.wp-block-separator {
+  opacity: 1;
+  border-color: #000;
+}
+
+/**
+ * Custom classes
+ */
+.wp-block-columns.columns-joined {
+  margin: 2rem 0;
+}
+.wp-block-columns.columns-joined .wp-block-column {
+  margin-left: 0 !important;
+  padding: 1rem;
+}
+.wp-block-columns.columns-joined .wp-block-column h4 {
+  margin-top: 0;
+}
+
+/**
+ * Group with Link
+ */
+.group-with-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.group-with-link.locked > .wp-block-group {
+  background: #999 !important;
+}
+
+/**
+ * Block Learning Project
+ */
+
+.block-insert {
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  position: relative;
+}
+.block-insert-icon {
+  width: 11rem;
+  height: 11rem;
+  border-radius: 99999px;
+  margin-right: 3rem;
+  flex-shrink: 0;
+}
+.block-insert-header {
+  font-family: inherit;
+  position: absolute;
+  top: -0.75em;
+  text-align: center;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.block-insert-header div {
+  background-color: #fff;
+  padding: 0 0.2rem;
+}
+.block-insert-content {
+  max-width: 700px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  line-height: 1.4;
+}
+@media (max-width: 600px) {
+  .block-insert-content {
+    flex-direction: column;
+  }
+  .block-insert-icon {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
+.block-insert-button {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  margin-top: 1rem;
+  border: 2px solid black;
+  padding: 0.5rem 4rem;
+}
+.block-insert-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  font-family: "Inria Serif";
+}
+.block-insert-caption {
+  font-size: 1.2rem;
+  font-family: "Inria Serif";
+}
+.block-insert-subcaption {
+  font-family: "Inria Serif";
+}
+
+/**
+ * Block Article
+ */
+.block-article {
+  margin-bottom: 1rem;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.block-article-caption {
+  font-size: 0.8rem;
+  font-weight: normal;
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+.block-article-thumbnail {
+  flex: 0.4;
+}
+.block-article-thumbnail img {
+  width: 100% !important;
+  height: 100% !important;
+}
+.block-article .attachment-post-thumbnail {
+  height: auto;
+  width: 100%;
+}
+.block-article.block-article-large .block-article-thumbnail {
+  flex: 1;
+  flex-grow: 1;
+}
+.block-article-content {
+  flex: 1;
+  flex-grow: 1;
+}
+.block-article-image-left {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 600px) {
+  .block-article-image-left {
+    flex-direction: column;
+  }
+}
+.block-article-image-left .block-article-thumbnail {
+  margin-right: 2rem;
+}
+.block-article h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-family: "Inria Serif";
+  font-size: 1.5rem;
+}
+.block-article-excerpt {
+  margin-bottom: 0.5em;
+}
+.block-article-time {
+  font-size: 0.8rem;
+}
+
+/**
+ * Block Article List
+ */
+.block-article-list .block-article-small {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0.25rem;
+  width: 100%;
+  max-width: 750px;
+  text-decoration: none;
+  color: inherit;
+}
+.block-article-list img {
+  /*width: 115px;*/
+  width: 80px;
+  height: auto;
+  margin-right: 1rem;
+  object-fit: contain;
+  object-position: 0 0;
+}
+.block-article-small div {
+  overflow: hidden;
+}
+.block-article-list .block-article-excerpt {
+  max-height: 1.3em;
+  font-size: 0.8rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.block-article-list h2 {
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+.block-article-list .block-article-caption {
+  margin-bottom: 0;
+}
+h3.section-divider {
+  margin: 3rem 0;
+}
+
+/**
+ * Block Tool
+ */
+.block-tool {
+  font-family: Moderat, sans-serif;
+  margin-bottom: 1.5rem;
+  border: 1px solid #555;
+  padding: 0.5rem;
+  height: 14rem;
+  width: 10rem;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.25rem;
+  color: inherit;
+  text-decoration: none;
+}
+.block-tool-header {
+  font-weight: 800;
+  flex-grow: 1;
+}
+.block-tool-footer {
+  font-size: 0.8rem;
+}
+.block-tool-title {
+  font-weight: bold;
+}
+.block-tool-description {
+  opacity: 0.7;
+}
+
+/**
+ * Block: Tool List
+ */
+.block-tool-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.block-tool-list .block-tool {
+  margin-right: 0.5rem;
+}
+
+/**
+ * Block: Questions
+ */
+.block-questions {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.block-questions-item {
+  min-height: 3.3em;
+  margin-bottom: 1em;
+  display: none;
+}
+.block-questions-item.active {
+  display: block;
+}
+.block-questions button {
+  margin: auto;
+  display: block;
+}
+
+/**
+ * Overview Page
+ */
+.overview_page {
+  font-family: "Inria Serif", serif;
+}
+.overview_page h3 {
+  font-family: Moderat, sans-serif;
+  font-weight: 200;
+}
+
+/**
+ * Common article and tool page styles
+ */
+.single-article .container,
+.single-tool .container {
+  max-width: 800px;
+}
+.single-tool .wp-block-group,
+.single-article .wp-block-group {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 2rem;
+}
+
+/**
+ * Article Page
+ */
+.article {
+  font-family: "Inria Serif", serif;
+  padding-top: 4rem;
+}
+.article-caption {
+  font-weight: normal;
+}
+.article-featured-image {
+  width: 100%;
+  height: auto;
+}
+.article-next {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.article-next img {
+  width: 100px;
+  height: auto !important;
+  display: block;
+  margin-right: 1rem;
+}
+
+/**
+ * Tool Page
+ */
+.tool {
+  font-family: Moderat, sans-serif;
+  padding-top: 4rem;
+}
+
+.tool h1,
+.tool h2,
+.tool h3,
+.tool h4 {
+  font-family: Moderat, sans-serif;
+}
+
+h6 {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+
+/**
+ * Toolbox
+ */
+.toolbox-filter {
+  margin-bottom: 2rem;
+}
+.toolbox-filter a {
+  margin-bottom: 0.25rem;
+}
+
+/**
+ * Embed
+ */
+.wp-block-embed {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+}
+.wp-embed-aspect-4-3::before {
+  padding-top: 75%;
+  content: "";
+  display: block;
+}
+.wp-embed-aspect-16-9::before {
+  padding-top: 56.25%;
+  content: "";
+  display: block;
+}
+.wp-block-embed__wrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.wp-block-embed__wrapper * {
+  width: 100%;
+  height: 100%;
+}
+
+/**
+ * Menu
+ */
+.menu {
+  position: absolute;
+  left: 3rem;
+  top: 3rem;
+}
+
+.menu {
+  position: fixed;
+  padding-left: 3rem;
+  padding-top: 3rem;
+  background: #000;
+  font-size: 0.7rem;
+  cursor: pointer;
+  z-index: 9999;
+  width: 64px;
+  height: 64px;
+  line-height: 60px;
+  border-radius: 999px;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fff;
+}
+.menu input {
+  display: none;
+}
+
+.menu-header-row {
+  display: flex;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.language-switcher {
+  margin: 0;
+  margin-right: 3rem;
+}
+.menu-sheet .language-switcher a {
+  font-size: 1rem;
+  margin-left: 0.75rem;
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.menu-container.opened {
+  display: block;
+}
+.menu-container {
+  display: none;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 999999;
+  animation: fade-enter 320ms forwards;
+  cursor: pointer;
+  line-height: 1.5;
+}
+.menu-container.closing {
+  animation: fade-leave 320ms forwards;
+}
+.menu-container.closing .menu-sheet {
+  animation: slide-leave 320ms forwards;
+}
+@keyframes fade-leave {
+  0% {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    background: transparent;
+  }
+}
+@keyframes fade-enter {
+  0% {
+    background: transparent;
+  }
+  100% {
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+@keyframes slide-enter {
+  0% {
+    transform: translate(-100%);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+@keyframes slide-leave {
+  0% {
+    transform: translate(0);
+  }
+  100% {
+    transform: translate(-100%);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .menu-sheet {
+    width: 100%;
+  }
+}
+
+.menu-nested {
+  margin-left: 3rem;
+}
+.menu-sheet .menu-nested a {
+  font-size: 1.8rem;
+}
+
+.menu-sheet {
+  overflow-y: auto;
+  cursor: auto;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  align-items: flex-start;
+  height: 100%;
+  width: 50%;
+  animation: slide-enter 320ms forwards;
+  padding-left: 3rem;
+  padding-top: 3rem;
+}
+.menu-sheet a {
+  font-size: 2.5rem;
+  text-decoration: none;
+  color: #000;
+  border-bottom: 5px solid transparent;
+}
+.menu-sheet a.active {
+  border-bottom: 5px solid black;
+}
+.menu-sheet a:hover {
+  color: #000;
+  border-bottom: 5px solid black;
+}
+
+.menu-close {
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-close:before,
+.menu-close:after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 3px;
+  position: absolute;
+  top: 24px;
+  background: #000;
+  transform-origin: center center;
+  transform: rotate(-45deg);
+}
+.menu-close:before {
+  transform: rotate(45deg);
+}
+
+.instance-switcher {
+  position: fixed;
+  max-width: 150px;
+  top: 3rem;
+  right: 1rem;
+}
+
+.check {
+  list-style-type: "\2610   ";
+}
+
+/* Youtube Lyte text */
+.lL {
+  margin-top: -1rem !important;
+  font-style: italic;
+  font-size: 0.9rem;
+}

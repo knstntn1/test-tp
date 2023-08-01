@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="logo" type="image/svg" href="./logo.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+	<link rel="mask-icon" href="./safari-pinned-tab.svg" color="#000000">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+
+	<title>Steuerung von Gruppenprozessen &#8211; VW Third Place</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="de" href="./article/steuerung-von-gruppenprozessen/" />
+<link rel="alternate" hreflang="en" href="./article/steuerung-von-gruppenprozessen/?lang=en" />
+<link rel="alternate" hreflang="x-default" href="./article/steuerung-von-gruppenprozessen/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/learn.foreverday.one\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #248ef7;--wp--preset--color--secondary: #78e04d;--wp--preset--color--third: #ff3d43;--wp--preset--color--fourth: #963a89;--wp--preset--color--fifth: #ff7200;--wp--preset--color--sixth: #367b6e;--wp--preset--color--learning-project: #fdf577;--wp--preset--color--4-ed-1: #22ffaa;--wp--preset--color--client: #e20074;--wp--preset--color--gray: #efefef;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 0.875rem;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 1.125rem;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 1.5rem;--wp--preset--font-size--xl: 1.25rem;--wp--preset--font-size--xxl: 1.5rem;--wp--preset--font-size--xxxl: 1.875rem;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 860px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: 24px; }body { --wp--style--block-gap: 24px; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: 24px;margin-block-end: 0;}body .is-layout-flex{gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-third-color{color: var(--wp--preset--color--third) !important;}.has-fourth-color{color: var(--wp--preset--color--fourth) !important;}.has-fifth-color{color: var(--wp--preset--color--fifth) !important;}.has-sixth-color{color: var(--wp--preset--color--sixth) !important;}.has-learning-project-color{color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-color{color: var(--wp--preset--color--4-ed-1) !important;}.has-client-color{color: var(--wp--preset--color--client) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-third-background-color{background-color: var(--wp--preset--color--third) !important;}.has-fourth-background-color{background-color: var(--wp--preset--color--fourth) !important;}.has-fifth-background-color{background-color: var(--wp--preset--color--fifth) !important;}.has-sixth-background-color{background-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-background-color{background-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-background-color{background-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-background-color{background-color: var(--wp--preset--color--client) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-third-border-color{border-color: var(--wp--preset--color--third) !important;}.has-fourth-border-color{border-color: var(--wp--preset--color--fourth) !important;}.has-fifth-border-color{border-color: var(--wp--preset--color--fifth) !important;}.has-sixth-border-color{border-color: var(--wp--preset--color--sixth) !important;}.has-learning-project-border-color{border-color: var(--wp--preset--color--learning-project) !important;}.has-4-ed-1-border-color{border-color: var(--wp--preset--color--4-ed-1) !important;}.has-client-border-color{border-color: var(--wp--preset--color--client) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-regular-font-size{font-size: var(--wp--preset--font-size--regular) !important;}.has-xl-font-size{font-size: var(--wp--preset--font-size--xl) !important;}.has-xxl-font-size{font-size: var(--wp--preset--font-size--xxl) !important;}.has-xxxl-font-size{font-size: var(--wp--preset--font-size--xxxl) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='sign-in-with-google-css' href='/wp-content/plugins/sign-in-with-google/src/public/css/sign-in-with-google-public.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='/wp-content/themes/learning-hub/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='./wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js' id='wpml-cookie-js'></script>
+<link rel="https://api.w.org/" href="./wp-json/" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/article/5475" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<link rel="canonical" href="./article/steuerung-von-gruppenprozessen/" />
+<link rel='shortlink' href='/?p=5475' />
+<link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fsteuerung-von-gruppenprozessen%2F" />
+<link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearn.foreverday.one%2Farticle%2Fsteuerung-von-gruppenprozessen%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.5.12 stt:1,3;" />
+			<style>
+			body {
+				--wp--preset--color--client: #0f16dd;
+							}
+		</style>
+	</head>
+
+<body class="article-template-default single single-article postid-5475" >
+	<main>
+					<div class="menu">
+			</div>
+			<label for="menu-toggle" class="menu " id="menu">
+			</label>
+
+			<input id="menu-toggle" type="checkbox" />
+			<div class="menu-container">
+				<div class="menu-sheet">
+					<div class="menu-header-row">
+						<label for="menu-toggle" class="menu-close"></label>
+						<div style="flex-grow: 1"></div>
+
+											</div>
+					<a href="./overview_page/analysieren-gestalten-day-one-learning-guide/">Home</a>
+												<div>
+								<a href="./overview_page/einfuehrung-third-place/">Einführung in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/agiles-arbeiten-in-third-place/">Agiles Arbeiten in Third Place</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+												<div>
+								<a href="./overview_page/vw_third-place_lernpfad-lernbegleiterin/">Lernpfad zur Lernbegleiter:in</a>
+								<div class="menu-nested">
+																				<a href="./overview_page/vorleben-inspirieren/">Vorleben &#038; Inspirieren</a><br>
+																				<a href="./overview_page/analysieren-gestalten/">Analysieren &#038; Gestalten</a><br>
+																				<a href="./overview_page/erkennen-entwickeln/">Erkennen &#038; Entwickeln</a><br>
+																				<a href="./overview_page/begleiten-halten/">Begleiten &#038; Halten</a><br>
+																	</div>
+							</div>
+												<div>
+								<a href="./toolbox/">Toolbox</a>
+								<div class="menu-nested">
+																	</div>
+							</div>
+									</div>
+			</div>
+
+			<script>
+				function initializeMenu() {
+					const container = document.querySelector(".menu-container");
+					document.querySelector("#menu").addEventListener("click", () => {
+						container.classList.add("opened");
+					});
+					document.querySelector(".menu-sheet").addEventListener("click", (e) => {
+						e.stopPropagation();
+					});
+					for (const el of [container, document.querySelector(".menu-close")])
+						el.addEventListener("click", () => {
+							container.classList.add("closing");
+							setTimeout(() => {
+								container.classList.remove("closing");
+								container.classList.remove("opened");
+							}, 320);
+						});
+				}
+				initializeMenu();
+			</script>
+		
+		
+<div class="container">
+		<article id="post-5475" class="post-5475 article type-article status-publish has-post-thumbnail hentry">
+		<div class="entry-content">
+			<h1>Steuerung von Gruppenprozessen</h1>
+			<img width="1280" height="720" src="./wp-content/uploads/2022/09/nautical-chart-gc125d4cda_1920-1280x720.jpg" class="article-featured-image wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2022/09/nautical-chart-gc125d4cda_1920-1280x720.jpg 1280w, /wp-content/uploads/2022/09/nautical-chart-gc125d4cda_1920-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />			
+<h4 class="wp-block-heading">Wie können Gruppen gut gesteuert und geführt werden?</h4>
+
+
+
+<p>Eine Gruppe entwickelt und entfaltet sich mit der Zeit. Dabei durchläuft sie verschiedene Phasen – vom Kennenlernen bis hin zur Auflösung.&nbsp;</p>
+
+
+
+<p>Der amerikanische Psychologe Bruce Tuckman (1965) hat sich intensiv mit Gruppenprozessen auseinandergesetzt und fünf idealtypische Phasen herausgearbeitet:</p>
+
+
+
+<p><strong>1. Orientierungsphase (Forming):</strong> In dieser Phase gründet sich die Gruppe und lernt sich kennen. Die Mitglieder kennen sich häufig noch nicht und kommen erstmals zusammen. Es besteht eine gewisse Unsicherheit, wie es weitergeht. Für das Kennenlernen und Finden eines ersten gemeinsamen Nenners und einer gemeinsamen Struktur sollte der Gruppe Raum und Zeit gegeben werden.</p>
+
+
+
+<p><strong>2. Auseinandersetzung um Positionen und Rollen (Storming): </strong>Diese Phase wird auch Streitphase genannt. Dabei geht es um Fragen wie: Welche Rollen und Positionen gibt es in der Gruppe und wie werden diese besetzt? Bestehen Zielkonflikte in der Gruppe? Wie können individuelle Bedürfnisse und Haltungen in die Gruppe eingebracht werden?</p>
+
+
+
+<p>Ein konstruktiver Verlauf dieser Phase ist wichtig für den folgenden Gruppenprozess und den Übergang in die nächste Phase.</p>
+
+
+
+<p><strong>3. Herausbildung von Gruppennormen (Norming): </strong>Nun findet die Gruppe gemeinsame Normen und verfestigt ihre Ziele. Ziele und Erwartungen werden hier nochmals auf ihre Machbarkeit überprüft. Damit richtet die Gruppe ihr gemeinsames Handeln aus. Die Gruppe versucht nun, mit Rücksicht auf die Unterschiede zwischen den Mitgliedern am gemeinsamen Ziel zu arbeiten.</p>
+
+
+
+<p><strong>4. Die Arbeitsphase (Performing):</strong> In dieser Phase kommt die Gruppe in das gemeinsame Tun. Ein Fokus liegt nun darauf, die Arbeitsphase zu stabilisieren und sich von Veränderungen und Hürden nicht aus dem Konzept bringen zu lassen. Die Gruppenmitglieder sollten in dieser Phase die Stärke und Unterstützung der Gruppe und gleichzeitig ihren eigenen Wert für die Gruppe spüren.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>5. Phase der Trennung bzw. Orientierungsphase (Adjourning bzw. Reforming):</strong> Am Ende des Gruppenprozesses wird Bilanz gezogen. Welche Erfahrungen haben die Gruppenmitglieder gemacht? Wie ist der Erfahrungsschatz der Gruppe gewachsen? Welches Fazit kann aus der Gruppenzusammenarbeit gezogen werden?</p>
+
+
+
+<p>Gruppen lösen sich hier entweder auf oder gehen mit den Erkenntnissen aus dieser Phase in einen Umformungsprozess über.</p>
+
+
+
+<p>Welche Aufgaben die Gruppenleitung in Person eine:r Ausbilder:in oder Lernbegleiter:in in dieser Phase hat, wurde von Mario Sorgalla (2015) herausgearbeitet:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="473" src="./wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-1024x473.png" alt="" class="wp-image-5674" srcset="/wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-1024x473.png 1024w, /wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-300x139.png 300w, /wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-768x355.png 768w, /wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-1536x709.png 1536w, /wp-content/uploads/2022/09/Phasen_Lernbegleitung_V3-2048x946.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-small-font-size"><em>Gruppenphasen nach Tuckman mit den Aufgaben für die Gruppenleitung (Sorgalla, 2015)</em></p>
+
+
+
+<p>Neben den Aufgaben, die in den verschiedenen Gruppenphasen für die Gruppenleitung anfallen, gibt es auch allgemeinere Fragen, die in Hinblick auf die Steuerung einer Gruppe relevant sind:&nbsp;</p>
+
+
+
+<p><strong>Fragen der Steuerung (König &amp; Schattenhofer 2020, S. 91):</strong></p>
+
+
+
+<ul><li>Wie wird der Kontext gestaltet?</li><li>Welchen Freiraum bekommen die Mitglieder?</li><li>Wie viel ist vorgegeben und wie viel ist offen gelassen?</li><li>Wo mischt sich die Leitung ein und wo hält sie sich raus?</li><li>Wo geht die Leitung mit der Gruppe in die gleiche Richtung und wo steuert sie gegen das vorherrschende Muster?</li><li>Welche Konflikte werden aufgedeckt und welche werden unthematisiert gelassen?</li><li>Für wen oder was ergreift die Leitung Partei? Wo bleibt sie neutral?</li><li>Wann und wie wird von der Handlungs- auf die Reflexionsebene geführt? Wann besser nicht?</li></ul>
+
+
+
+<p>Eine wichtige Frage für Ausbilder:innen und Lernbegleiter:innen ist, wie viel Raum der Gruppe für Selbstorganisation geben wird. Wo braucht es die eigene Unterstützung? Wo braucht die Gruppe einen Rahmen? Wie kann der Gruppe geholfen werden, ihren eigenen Weg zu finden? Ist es notwendig, dass ein:e Ausbilder:in oder Lernbegleiter:in die Rolle der Gruppenleitung einnimmt oder gibt man diese Position einer anderen Person?&nbsp;</p>
+
+
+
+<p>Nicht alle Gruppen weisen den gleichen Reifegrad auf und Selbstorganisation muss oft erst erlernt werden. Wie Gruppen bei ihrem Reifeprozess unterstützt werden können, erklärt der Artikel <a href="./article/weiter-entwicklung-sozial-emotionaler-kompetenzen-in-gruppen-und-teams/" target="_blank" rel="noreferrer noopener">“(Weiter-)Entwicklung sozial-emotionaler Kompetenzen in Gruppen und Teams</a>”.</p>
+
+
+
+<p>Wichtig ist es außerdem, Individualität in der Gruppe zuzulassen. Unterschiede sollten ausgehalten werden. Denn der Wert einer Gruppen kann sich nur voll entfalten, wenn alle Mitglieder ihre Stärken und Perspektiven einbringen können.&nbsp;</p>
+
+
+
+<p>Wenn die Steuerung der Gruppe erforderlich wird, gibt es jedoch verschiedene Arten von Interventionen, die ganz nach Bedarf und Kontext eingesetzt werden können.</p>
+
+
+
+<h4 class="wp-block-heading">Was sind Interventionen genau?</h4>
+
+
+
+<blockquote class="wp-block-quote"><p>“Eine Gruppenleiter:innen-Intervention ist [&#8230;] ein absichtsvolles Verhalten, das darauf gerichtet ist, Veränderungen im Prozess einer Gruppe oder ihrer Mitglieder zu bewirken.” </p><cite>(Voigt &amp; Antons, 1999)&nbsp;</cite></blockquote>
+
+
+
+<p>Das Wort Intervention kommt von dem lateinischen Verb “intervenire” und bedeutet so viel wie “dazwischenkommen”. Zu einer Intervention gehört also:&nbsp;</p>
+
+
+
+<ul><li>Einfluss nehmen&nbsp;</li><li>Professionelles Eingreifen</li><li>Steuerung&nbsp;</li><li>“Herstellung” veränderter Perspektiven und Sichtweisen</li></ul>
+
+
+
+<p>Eine Intervention ist immer ein intendiertes Tun und verfolgt als solches einen bestimmten Zweck. Durch eine Intervention verändert man eine Situation (bzw. verbesserungswürdige Abläufe und Prozesse) – und das im besten Fall so, wie man es vorher geplant hat.</p>
+
+
+
+<h4 class="wp-block-heading">Wie können Interventionen aussehen?</h4>
+
+
+
+<p>Es gibt verschiedene Interventionsarten. Es gibt zum Beispiel Interventionen, bei denen es darum geht, den Kontext für die Gruppe zu setzen (<strong>Kontextsteuerung</strong>). Das kann eine Intervention sein, die eine konkrete Struktur vorgibt, in der die Gruppe agiert und die spezifische Vorgaben zur Zusammenarbeit beinhaltet, etwa die Einführung von Spielregeln. Damit wird der Rahmen von außen bestimmt und entwickelt sich nicht aus der Gruppe heraus. Weitere Beispiele für <strong>struktursetzende Interventionen </strong>sind: das Festlegen der Arbeitszeiten, die Aufteilung oder Zusammenführung einer Gruppe, die Instruktion einer Übung, der Vorschlag zum Wechsel einer Vorgehensweise. (Voigt &amp; Antons, 1999)&nbsp;</p>
+
+
+
+<p>Der Kontext der Gruppenprozesse kann aber auch dadurch beeinflusst werden, dass die Mitglieder zur Reflexion und Auswertung aufgefordert werden (<strong>Interventionen zur Auswertung des Prozesses</strong>). Das kann bei bestimmten Phasen oder Arbeitsschritten, aber auch in Form von Feedbackrunden oder Zwischenbilanzen passieren. Konkrete Beispiele dafür sind sogenannte Blitzlichtgespräche zur aktuellen Befindlichkeit der Gruppenmitglieder, eine Prozessanalyse oder die Metakommunikation.</p>
+
+
+
+<p>Andere Interventionen zielen darauf ab, den Gruppenprozess zu beeinflussen (<strong>Prozesssteuerung</strong>). Ein Gruppenleiter kann beispielsweise in einen laufenden Prozess eingreifen, indem er:sie Stellungnahmen abgibt, Beobachtungen schildert oder Kritik äußert. Damit wird der Prozess unterbrochen und nimmt danach eine andere Richtung. Man spricht hierbei von einer <strong>Gruppen(-prozess)-bezogenen Intervention</strong>. Wenn wiederum ein einzelnes Gruppenmitglied im Fokus der Intervention steht, nennt man das eine personenbezogene Intervention. Diese liegt etwa dann vor, wenn eine Person für ihre Verhaltensweise kritisiert oder zur Reflexion eingeladen wird. Ein Eingriff kann auch nötig werden, wenn eine Person in der Gruppe schlecht zurechtkommt und die Unterstützung oder Hilfe der Gruppenleitung benötigt.</p>
+
+
+
+<h4 class="wp-block-heading">Wie können Interventionen formuliert werden?</h4>
+
+
+
+<p>Es gibt verschiedene Stufen der Intensität einer Intervention: von einem dezenten eher tangentialen Ansprechen bis hin zur direkten Konfrontation.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="438" src="./wp-content/uploads/2022/09/Interventionsintensität-1-1024x438.png" alt="" class="wp-image-5478" srcset="/wp-content/uploads/2022/09/Interventionsintensität-1-1024x438.png 1024w, /wp-content/uploads/2022/09/Interventionsintensität-1-300x128.png 300w, /wp-content/uploads/2022/09/Interventionsintensität-1-768x328.png 768w, /wp-content/uploads/2022/09/Interventionsintensität-1-1536x657.png 1536w, /wp-content/uploads/2022/09/Interventionsintensität-1-2048x876.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-small-font-size"><em>Interventionsintensität (Voigt &amp; Antons, 1999 &#8211; eigene Darstellung)</em></p>
+
+
+
+<h4 class="wp-block-heading">Mögliches Vorgehen bei Interventionen</h4>
+
+
+
+<p>Die Gruppenleitung oder eine außen stehende Person muss entscheiden, ob eine Intervention nötig ist. Dafür sollte eine Situation erstmal eingehend beobachtet und analysiert werden:&nbsp;</p>
+
+
+
+<ul><li>Was würde passieren, wenn ich nicht eingreife?&nbsp;</li><li>Wie stark wird der weitere Verlauf des Gruppenprozesses von dieser Situation beeinflusst?</li><li>Leiden Personen unter dieser Situation?</li></ul>
+
+
+
+<p>Hierbei ist immer ein Abwägen gefragt, um die Selbstorganisation der Gruppe zu erhalten und die Gruppenmitglieder in ihren Erfahrungen und an dem Prozess wachsen zu lassen.&nbsp;</p>
+
+
+
+<p>Wenn man sich nach dieser Analyse für eine Intervention entscheidet, stellt sich als nächstes die Frage, was die Situation erfordert: Reicht eine leichte Form des Aufmerksammachens oder ist eine deutliche Benennung von Konflikten notwendig? Außerdem muss der Kontext der Intervention abgesteckt werden. Wenn wir beispielsweise an einen Konflikt zwischen zwei Gruppenmitglieder denken, gibt es hier verschiedene Möglichkeiten zu agieren: Zum Beispiel können die beiden Protagonisten abseits der Gruppe angesprochen werden – oder man führt ein strukturiertes Mediationsgespräch innerhalb der Gruppe, wenn der <a rel="noreferrer noopener" href="./article/konflikte/" target="_blank">Konflikt</a> bereits Einfluss auf den Rest des Teams genommen hat. </p>
+
+
+
+<p>Es gibt hier keine pauschale Antwort, denn jede Situation, jeder Kontext und jede Gruppe ist anders. Wichtig ist es jedoch, eine Situation und die möglichen Konsequenzen eines Eingreifens stets in Ruhe zu analysieren und abzuwägen, ob sich eine Intervention lohnt, bevor vorschnell agiert wird. Dazu passt auch dieses Zitat von Bert Voigt und Klaus Antons:&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“In <strong>angemessener Dosierung</strong> wirken sie [Interventionen] <strong>anregend</strong> und dynamisierend, <strong>zu klein</strong> gewählt bleiben sie <strong>unterschwellig</strong> und in <strong>zu großen</strong> Dosen können sie <strong>lähmend</strong> und vergiftend wirken.”</p><cite>(Voigt &amp; Antons, 1999)&nbsp;</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Tipps und Tricks</h4>
+
+
+
+<p>Schon in der Antike wurden Fabeln eingesetzt, um Machthabende zu kritisieren und auf Fehlverhalten hinzuweisen, ohne die eigenen Beschwerden und Meinungen direkt zu äußern. So schützten sich die Geschichtenerzähler nicht nur vor Sanktionen und Strafen, sondern vermochten es auch, Moral und Fehlverhalten mit bildlicher Sprache einfacher zu erklären. Und auch heute wird Storytelling gerne für die Vermittlung von Informationen genutzt, weil sich unser Gehirn Geschichten besser merken kann. Sie lassen Raum für Interpretationen und laden zum Nachdenken ein. Deshalb empfehlen wir, Metaphern auch für Interventionen zu nutzen, wie etwa im folgenden Beispiel:</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-5">
+<div class="wp-block-column has-gray-background-color has-background is-layout-flow">
+<div class="wp-block-group is-layout-flow">
+<h5 class="wp-block-heading">Sachliche Beschreibung</h5>
+
+
+
+<p>&#8222;In unserer Ausbildungsgruppe beobachte ich, dass wir aktive Leute haben, die sich engagieren und richtig reinhängen, um gemeinsam erfolgreich zu sein. Und wir haben unbeteiligte Gruppenmitglieder, die aus der Distanz beobachten und meinen alles besser zu wissen, ohne wirklich selbst mal ins Tun zu kommen.&#8220;</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column has-gray-background-color has-background is-layout-flow">
+<div class="wp-block-group is-layout-flow">
+<h5 class="wp-block-heading">Metaphorische Beschreibung</h5>
+
+
+
+<p>&#8222;Oft komme ich mir in unserer Ausbildungsgruppe vor wie im Fußballstadion. Wir haben aktive Spieler auf dem Feld, die sich die Bälle zuspielen und am gemeinsamen Sieg Interesse haben, ein paar sitzen auf der Ersatzbank und ein paar fläzen auf der Tribüne und pöbeln bei jedem Fehler auf dem Feld.&#8220;</p>
+</div>
+</div>
+</div>
+
+
+
+<p>Neben der Tierwelt, wie sie in Fabeln häufig genutzt wird, sind mögliche Themenbereiche bildhafter Sprache: Fußball, Garten, Geheimdienst, Kindergarten, Körper, Kleidung, Kreuzung, Märchen, Militär, Orchester, Küche, Schiff, Zirkus, Zoo. (Lindemann, 2016)</p>
+
+
+
+<p><strong>Ein weiterer Tipp zum Thema Interventionen: </strong>Stahl (2007) empfiehlt in seinem Buch “Dynamik in Gruppen” verschiedene Interventionsarten für die einzelnen Phasen des Gruppenprozesses nach Tuckman.</p>
+
+
+
+<div class="wp-block-group has-4-ed-1-background-color has-background is-layout-flow">    <div class="block-questions">
+                    <div class="block-questions-item active">
+                Wovon hängt ab, welche Freiheiten du Gruppen gewährst?            </div>
+                    <div class="block-questions-item ">
+                Wie leicht/fällt dir eine Intervention in einem Gruppenprozess?            </div>
+                    <div class="block-questions-item ">
+                Welche Erfahrungen hast du bei Interventionen gemacht?            </div>
+                    <div class="block-questions-item ">
+                Welche Auswirkungen hatten deine Interventionen?            </div>
+                    <div class="block-questions-item ">
+                In welchen Situationen hast du dich für/gegen eine Intervention entschieden?            </div>
+                    <div class="block-questions-item ">
+                Welche Metaphern haben dir geholfen, um Situationen für andere bildhaft zu erklären?            </div>
+                <button id="questions-button645c15490d92f">Nächste Frage</button>        <script>
+            window.addEventListener('load', function() {
+                var button = document.getElementById('questions-button645c15490d92f');
+                button.addEventListener('click', function() {
+                    var items = button.parentElement.querySelectorAll('.block-questions-item');
+                    var activeIndex = [...items].findIndex(function(item) {
+                        return item.classList.contains('active');
+                    });
+                    items[activeIndex].classList.remove('active');
+                    items[(activeIndex + 1) % items.length].classList.add('active');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+
+
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
+
+
+
+<h5 class="wp-block-heading">Quellen</h5>
+
+
+
+<ul class="has-small-font-size"><li>Lindemann, H. (2016). <em>Die große Metaphern-Schatzkiste</em>. Vandenhoeck &amp; Ruprecht.</li><li>Myhsok, A., &amp; Jäger, A. (2008). <em>Moderieren in Gruppen &amp; Teams</em>. Junfermann.</li><li>Sorgalla, M. (2015). <em>Gruppendynamik</em>. 8. URL: <a href="https://www.die-bonn.de/wb/2015-gruppendynamik-01.pdf">https://www.die-bonn.de/wb/2015-gruppendynamik-01.pdf</a>&nbsp;</li><li>Stahl, E. (2007). <em>Dynamik in Gruppen</em> (3. Auflage). Beltz.</li><li>Tuckmann, B.W. (1965). <em>Developmental sequence in small groups.</em> Psychological Bulletin 63: 384-399.</li><li>Voigt, B., &amp; Antons, K. (1999). Systematische Anmerkungen zur Intervention in Gruppen. In O. König (Hrsg.), <em>Gruppendynamik</em> (S. 224–245). Profil.</li><li>Wheelan, S. (2014). <em>Creating Effective Teams: A Guide for Members and Leaders</em>. SAGE.</li></ul>
+							<h4>Nächster Artikel</h4>
+				<a href="./article/weiter-entwicklung-sozial-emotionaler-kompetenzen-in-gruppen-und-teams/" class="article-next">
+					<img width="640" height="360" src="./wp-content/uploads/2022/09/michal-parzuchowski-lHkUBtUiI2Q-unsplash-640x360.jpg" class="attachment-article-thumbnail size-article-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/09/michal-parzuchowski-lHkUBtUiI2Q-unsplash-640x360.jpg 640w, /wp-content/uploads/2022/09/michal-parzuchowski-lHkUBtUiI2Q-unsplash-1280x720.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />					<div>
+												<br>
+						(Weiter-)Entwicklung sozial-emotionaler Kompetenzen in Gruppen und Teams						<br>
+						5 min
+					</div>
+				</a>
+					</div>
+	</article>
+</div>
+
+</main>
+
+<footer>
+	<div class="container">
+		&copy; 2023 - Forever Day One
+		<br>
+					<a href="https://learn.foreverday.one?logout=1">Logout</a>
+			|
+				<a href="./datenschutzerklaerung/">Datenschutzerklärung</a> |
+		<a target="_blank" href="https://foreverday.one/impressum">Impressum</a>
+	</div>
+</footer>
+
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-5.wp-container-5{flex-wrap:nowrap;}
+</style>
+
+</body>
+
+</html>
