@@ -1,0 +1,41 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "allowedRoles": [
+                "authenticated"
+            ]
+        }
+    ],
+    "responseOverrides": {
+        "401": {
+            "statusCode": 302,
+            "redirect": "/.auth/login/myProvider"
+        }
+    },
+    "auth": {
+        "identityProviders": {
+            "customOpenIdConnectProviders": {
+                "myProvider": {
+                    "registration": {
+                        "clientIdSettingName": "MY_PROVIDER_CLIENT_ID",
+                        "clientCredential": {
+                            "clientSecretSettingName": "MY_PROVIDER_CLIENT_SECRET"
+                        },
+                        "openIdConnectConfiguration": {
+                            "wellKnownOpenIdConfiguration": "https://idp.cloud.vwgroup.com/auth/realms/kums/.well-known/openid-configuration"
+                        }
+                    },
+                    "login": {
+                        "nameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+                        "scopes": [
+                            "openid",
+                            "profile"
+                        ],
+                        "loginParameterNames": []
+                    }
+                }
+            }
+        }
+    }
+}
